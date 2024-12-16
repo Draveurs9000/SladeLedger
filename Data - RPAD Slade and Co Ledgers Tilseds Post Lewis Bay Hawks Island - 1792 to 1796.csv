@@ -1,0 +1,1044 @@
+﻿Checked,Key,Name,Post,Vol,Page,Year,Month,Day,Qty,Unit,Item,L,s,d,Notes,DateCalc,Qts,Value s,StdDrinks
+y,1,George Cox,Tilseds Post,N94,40,1794,,,,,,,,,"[Clothing, Hardware, and Bills only]",#N/A,0,0,0
+y,2,William Broomfield,Lewis Bay,N94,41,1794,,,,,,,,,"[Clothing, Hardware, and Bills only]",#N/A,0,0,0
+y,3,Roger McGrath,Hawks Island,N94,47,1794,jn,25,1,q,r,,1,6,,176,1,1.5,1
+y,4,Roger McGrath,Hawks Island,N94,47,1794,jl,17,2,q,be,,1,6,,198,2,1.5,0.5
+y,5,Roger McGrath,Hawks Island,N94,47,1794,jl,24,1,g,be,,2,6,,205,4,2.5,1
+y,6,Roger McGrath,Hawks Island,N94,47,1794,jl,25,1,q,r,,1,6,,206,1,1.5,1
+y,7,Roger McGrath,Hawks Island,N94,47,1794,jl,27,1,q,r,,1,6,,208,1,1.5,1
+y,8,Roger McGrath,Hawks Island,N94,47,1794,au,2,1,q,r,,1,6,,214,1,1.5,1
+y,9,Roger McGrath,Hawks Island,N94,47,1794,au,14,1,q,r,,1,6,,226,1,1.5,1
+y,10,Roger McGrath,Hawks Island,N94,47,1794,au,17,1,q,r,,1,6,,229,1,1.5,1
+y,11,Roger McGrath,Hawks Island,N94,47,1794,au,24,1,q,r,,1,6,,236,1,1.5,1
+y,12,Roger McGrath,Hawks Island,N94,47,1794,au,31,1,q,r,,1,6,,243,1,1.5,1
+y,13,Roger McGrath,Hawks Island,N94,47,1794,s,1,1,q,r,,1,6,,244,1,1.5,1
+y,14,Roger McGrath,Hawks Island,N94,47,1794,s,3,1,q,r,,1,6,,246,1,1.5,1
+y,15,Roger McGrath,Hawks Island,N94,47,1794,s,5,1,g,be,,2,6,,248,4,2.5,1
+y,16,Roger McGrath,Hawks Island,N94,47,1794,s,5,1,q,r,,1,6,,248,1,1.5,1
+y,17,Roger McGrath,Hawks Island,N94,47,1794,s,9,1,q,r,,1,6,,252,1,1.5,1
+y,18,Roger McGrath,Hawks Island,N94,47,1794,s,10,1,q,r,,1,6,,253,1,1.5,1
+y,19,Roger McGrath,Hawks Island,N94,47,1794,s,12,1,q,r,,1,6,,255,1,1.5,1
+y,20,Roger McGrath,Hawks Island,N94,47,1794,s,17,1.5,g,be,,3,9,,260,6,3.75,1.5
+y,21,Roger McGrath,Hawks Island,N94,47,1794,s,18,0.5,g,be,,1,3,,261,2,1.25,0.5
+y,22,Roger McGrath,Hawks Island,N94,47,1794,s,19,0.5,g,be,,1,3,,262,2,1.25,0.5
+y,23,Roger McGrath,Hawks Island,N94,47,1794,s,21,1,q,r,,1,6,,264,1,1.5,1
+y,24,Roger McGrath,Hawks Island,N94,47,1794,s,23,2,q,r,,3,,,266,2,3,2
+y,25,Roger McGrath,Hawks Island,N94,47,1794,s,24,1,q,r,,1,6,,267,1,1.5,1
+y,26,Roger McGrath,Hawks Island,N94,47,1794,s,29,2,q,r,,3,,,272,2,3,2
+y,27,Roger McGrath,Hawks Island,N94,47,1794,o,2,1,q,r,,1,6,,275,1,1.5,1
+y,28,Roger McGrath,Hawks Island,N94,47,1794,o,3,1,q,r,,1,6,,276,1,1.5,1
+y,29,Roger McGrath,Hawks Island,N94,47,1794,o,6,2,q,r,,3,,,279,2,3,2
+y,30,Roger McGrath,Hawks Island,N94,47,1794,s,30,1,q,r,,1,6,,273,1,1.5,1
+y,31,Roger McGrath,Hawks Island,N94,47,1794,o,14,1,q,r,,1,6,,287,1,1.5,1
+y,32,Roger McGrath,Hawks Island,N94,47,1794,o,16,1,q,r,,1,6,,289,1,1.5,1
+y,33,William Gale,Tilseds Post,N94,50,1793,s,29,,,,,,,"""[…] Per old Book""",272,0,0,0
+y,34,James Clark,Hawks Island,N94,67,1793,s,29,,,,,,,"""[…] Per old Book""",272,0,0,0
+y,35,James Clark,Hawks Island,N94,67,1794,jn,28,1,q,r,,2,3,,179,1,2.25,1
+y,36,James Clark,Hawks Island,N94,67,1794,au,2,1,q,r,,2,3,,214,1,2.25,1
+y,37,James Clark,Hawks Island,N94,67,1794,au,3,1,q,r,,2,3,,215,1,2.25,1
+y,38,James Clark,Hawks Island,N94,67,1794,s,5,1,q,r,,2,3,,248,1,2.25,1
+y,39,James Clark,Hawks Island,N94,67,1794,s,5,2,q,be,,1,6,,248,2,1.5,0.5
+y,40,James Clark,Hawks Island,N94,67,1794,s,6,2,q,be,,1,6,,249,2,1.5,0.5
+y,41,James Clark,Hawks Island,N94,67,1794,s,17,1,q,r,,2,3,,260,1,2.25,1
+y,42,James Clark,Hawks Island,N94,67,1794,o,2,1,q,r,,2,3,,275,1,2.25,1
+y,43,James Clark,Hawks Island,N94,67,1794,o,14,1,q,r,,2,3,,287,1,2.25,1
+y,44,William Stickley,Lewis Bay,N94,68,1793,s,21,,,,,,,"""[…] Per old Book""",264,0,0,0
+y,45,William Stickley,Lewis Bay,N94,68,1794,o,2,0.5,g,be,,1,6,,275,2,1.5,0.5
+y,46,William Stickley,Lewis Bay,N94,68,1794,o,5,1,g,be,,3,,,278,4,3,1
+y,47,William Stickley,Lewis Bay,N94,68,1794,o,9,1,q,r,,2,3,,282,1,2.25,1
+y,48,William Stickley,Lewis Bay,N94,68,1794,o,10,1,q,r,,2,3,,283,1,2.25,1
+y,49,Samuel Score,Tilseds Post,N94,70,1793,o,3,,,,,,,"""[…] Per old Book""",276,0,0,0
+y,50,Samuel Score,Tilseds Post,N94,70,1794,jl,10,1,q,r,,2,3,,191,1,2.25,1
+y,51,Samuel Score,Tilseds Post,N94,70,1794,au,3,1,q,r,,2,3,,215,1,2.25,1
+y,52,Samuel Score,Tilseds Post,N94,70,1794,s,5,1,q,r,,2,3,,248,1,2.25,1
+y,53,Samuel Score,Tilseds Post,N94,70,1794,s,6,1,g,be,,3,,,249,4,3,1
+y,54,Samuel Score,Tilseds Post,N94,70,1794,s,17,0.5,g,be,,1,6,,260,2,1.5,0.5
+y,55,Samuel Score,Tilseds Post,N94,70,1794,o,3,1,q,r,,2,3,,276,1,2.25,1
+y,56,Samuel Score,Tilseds Post,N94,70,1794,o,13,,,,,,,"""To Ballance carried to the Love & Unity's Book""",286,0,0,0
+y,57,John Yeatman,Hawks Island,N94,71,1793,s,29,,,,,,,"""[…] Per old Book""",272,0,0,0
+y,58,John Yeatman,Hawks Island,N94,71,1794,au,8,1,q,r,,2,3,,220,1,2.25,1
+y,59,John Yeatman,Hawks Island,N94,71,1794,au,29,1,q,r,,2,3,,241,1,2.25,1
+y,60,John Yeatman,Hawks Island,N94,71,1794,s,27,1,q,r,,2,3,,270,1,2.25,1
+y,61,Samuel Shappick,Hawks Island,N94,81,1794,au,2,2,q,r,,4,6,,214,2,4.5,2
+y,62,Samuel Shappick,Hawks Island,N94,81,1794,au,5,1,q,r,,2,3,,217,1,2.25,1
+y,63,Samuel Shappick,Hawks Island,N94,81,1794,au,8,1,q,r,,2,3,,220,1,2.25,1
+y,64,Samuel Shappick,Hawks Island,N94,81,1794,au,17,1,q,r,,2,3,,229,1,2.25,1
+y,65,Samuel Shappick,Hawks Island,N94,81,1794,s,5,1,g,be,,3,,,248,4,3,1
+y,66,Samuel Shappick,Hawks Island,N94,81,1794,s,17,2,q,be,,1,6,,260,2,1.5,0.5
+y,67,Samuel Shappick,Hawks Island,N94,81,1794,o,2,1,q,r,,2,3,,275,1,2.25,1
+y,68,John Stiles,Hawks Bay,N94,123,1794,o,23,2.5,g,r,,15,,,296,10,15,10
+y,69,James Godfrey,Tilseds Post,N94,123,1794,jl,24,1,q,r,,2,3,,205,1,2.25,1
+y,70,James Godfrey,Tilseds Post,N94,123,1794,au,5,1,q,r,,2,3,,217,1,2.25,1
+y,71,James Godfrey,Tilseds Post,N94,123,1794,au,21,1,q,r,,2,3,,233,1,2.25,1
+y,72,James Godfrey,Tilseds Post,N94,123,1794,au,29,1,q,r,,2,3,,241,1,2.25,1
+y,73,James Godfrey,Tilseds Post,N94,123,1794,s,11,1,q,r,,2,3,,254,1,2.25,1
+y,74,James Godfrey,Tilseds Post,N94,123,1794,o,2,2,q,be,,1,6,,275,2,1.5,0.5
+y,75,George Dempster,Hawks Island,N94,123,1794,o,8,1,g,r,,9,,,281,4,9,4
+y,76,George Dempster,Hawks Island,N94,123,1794,o,8,,,,,,,"""To Ballance Mr Jos.h Bird Sturminster""",281,0,0,0
+y,77,John Frampton,Hawks Bay,N94,124,1794,,,,,,,,,[no alc entries],#N/A,0,0,0
+y,78,John Craze,Tilseds Post,N94,124,1794,jn,27,1,q,r,,2,3,,178,1,2.25,1
+y,79,John Craze,Tilseds Post,N94,124,1794,jn,30,1,q,r,,2,3,,181,1,2.25,1
+y,80,John Craze,Tilseds Post,N94,124,1794,jl,7,1,g,be,,3,,,188,4,3,1
+y,81,John Craze,Tilseds Post,N94,124,1794,jl,9,2,q,be,,1,6,,190,2,1.5,0.5
+y,82,John Craze,Tilseds Post,N94,124,1794,jl,12,2,q,be,,1,6,,193,2,1.5,0.5
+y,83,John Craze,Tilseds Post,N94,124,1794,jl,18,1,q,r,,2,3,,199,1,2.25,1
+y,84,John Craze,Tilseds Post,N94,124,1794,jl,22,1,q,r,,2,3,,203,1,2.25,1
+y,85,John Craze,Tilseds Post,N94,124,1794,jl,31,1,q,r,,2,3,,212,1,2.25,1
+y,86,John Craze,Tilseds Post,N94,124,1794,au,7,1,q,r,,2,3,,219,1,2.25,1
+y,87,John Craze,Tilseds Post,N94,124,1794,au,8,1,q,r,,2,3,,220,1,2.25,1
+y,88,John Craze,Tilseds Post,N94,124,1794,au,14,1,q,r,,2,3,,226,1,2.25,1
+y,89,John Craze,Tilseds Post,N94,124,1794,au,17,1,q,r,,2,3,,229,1,2.25,1
+y,90,John Craze,Tilseds Post,N94,124,1794,au,18,1,q,r,,2,3,,230,1,2.25,1
+y,91,John Craze,Tilseds Post,N94,124,1794,au,31,1,q,r,,2,3,,243,1,2.25,1
+y,92,John Craze,Tilseds Post,N94,124,1794,s,5,1,g,be,,3,,,248,4,3,1
+y,93,John Craze,Tilseds Post,N94,124,1794,s,7,1,q,r,,2,3,,250,1,2.25,1
+y,94,John Craze,Tilseds Post,N94,124,1794,s,11,1,q,r,,2,3,,254,1,2.25,1
+y,95,John Craze,Tilseds Post,N94,124,1794,s,17,1,q,r,,2,3,,260,1,2.25,1
+y,96,John Craze,Tilseds Post,N94,124,1794,s,17,1,q,r,,2,3,,260,1,2.25,1
+y,97,John Craze,Tilseds Post,N94,124,1794,s,19,1,q,r,,2,3,,262,1,2.25,1
+y,98,John Craze,Tilseds Post,N94,124,1794,s,26,1,q,r,,2,3,,269,1,2.25,1
+y,99,John Craze,Tilseds Post,N94,124,1794,o,6,1,q,r,,2,3,,279,1,2.25,1
+y,100,John Craze,Tilseds Post,N94,124,1794,o,8,,,,,,,"""To Ballance Mr John Aldridge X Church""",281,0,0,0
+y,101,John Tilsed,Tilseds Post,N94,125,1794,jn,12,1,q,r,,2,3,,163,1,2.25,1
+y,102,John Tilsed,Tilseds Post,N94,125,1794,au,3,1,q,r,,2,3,,215,1,2.25,1
+y,103,John Tilsed,Tilseds Post,N94,125,1794,au,5,1,g,be,,3,,,217,4,3,1
+y,104,John Tilsed,Tilseds Post,N94,125,1794,au,15,1,q,r,,2,3,,227,1,2.25,1
+y,105,John Tilsed,Tilseds Post,N94,125,1794,o,3,2,q,be,,1,6,,276,2,1.5,0.5
+y,106,John Tilsed,Tilseds Post,N94,125,1794,o,4,2,q,be,,1,6,,277,2,1.5,0.5
+y,107,John Tilsed,Tilseds Post,N94,125,1794,o,5,1,q,r,,2,3,,278,1,2.25,1
+y,108,John Tilsed,Tilseds Post,N94,125,1794,o,5,,,,,,,"""To Ballance Mr. Tho.s Colborne""",278,0,0,0
+y,109,William Holloway,Hawks Island,N94,125,1794,jn,25,2,q,be,,1,6,,176,2,1.5,0.5
+y,110,William Holloway,Hawks Island,N94,125,1794,jn,28,1,q,r,,2,3,,179,1,2.25,1
+y,111,William Holloway,Hawks Island,N94,125,1794,jn,29,1,q,r,,2,3,,180,1,2.25,1
+y,112,William Holloway,Hawks Island,N94,125,1794,jl,8,1,q,r,,2,3,,189,1,2.25,1
+y,113,William Holloway,Hawks Island,N94,125,1794,jl,24,2,q,be,,1,6,,205,2,1.5,0.5
+y,114,William Holloway,Hawks Island,N94,125,1794,au,2,1,q,r,,2,3,,214,1,2.25,1
+y,115,William Holloway,Hawks Island,N94,125,1794,au,15,1,q,r,,2,3,,227,1,2.25,1
+y,116,William Holloway,Hawks Island,N94,125,1794,s,5,2.5,g,be,,7,6,,248,10,7.5,2.5
+y,117,William Holloway,Hawks Island,N94,125,1794,s,11,1,q,r,,2,3,,254,1,2.25,1
+y,118,William Holloway,Hawks Island,N94,125,1794,s,17,1,g,be,,3,,,260,4,3,1
+y,119,William Holloway,Hawks Island,N94,125,1794,s,17,0.5,g,be,,1,6,,260,2,1.5,0.5
+y,120,William Holloway,Hawks Island,N94,125,1794,s,18,1,g,be,,3,,,261,4,3,1
+y,121,William Holloway,Hawks Island,N94,125,1794,s,23,1,q,r,,2,3,,266,1,2.25,1
+y,122,William Holloway,Hawks Island,N94,125,1794,s,27,1,q,r,,2,3,,270,1,2.25,1
+y,123,William Holloway,Hawks Island,N94,125,1794,o,7,1,q,r,,2,3,,280,1,2.25,1
+y,124,William Holloway,Hawks Island,N94,125,1794,o,7,,,,,,,"""To Ballance Mr John Bird Poole""",280,0,0,0
+y,138,William Holloway,Hawks Island,BH93,5,1793,f,8,,,,,,,"""[…] Per Fogo Ledger""",39,0,0,0
+y,172,George Dempster,Hawks Island,BH93,6,1793,,,,,,,,,"""balance to be paid Mr. Joseph Bird Sturminster""",#N/A,0,0,0
+y,173,John Frampton,Hawks Bay,BH93,7,1792,o,18,,,,,,,"""[…] Per Fogo Ledger""",291,0,0,0
+y,174,John Frampton,Hawks Bay,BH93,7,1793,,,,,,,,,"""Balance to be paid Mr John Bird Poole""",#N/A,0,0,0
+y,175,George Cox,Tilseds Post,BH93,8,1792,,,,,,,,,"""[…] Per Old Book""",#N/A,0,0,0
+y,176,George Cox,Tilseds Post,BH93,8,1792,,,,,,,,,"""[…] Victuals and Clothes […]""",#N/A,0,0,0
+y,177,William Broomfield,Lewis Bay,BH93,8,1792,,,,,,,,,"""[…] Per Old Book""",#N/A,0,0,0
+y,178,William Broomfield,Lewis Bay,BH93,8,1792,,,,,,,,,"""[…] Victuals and Clothes […]""",#N/A,0,0,0
+y,213.1,James Corridan a/c Roger McGrath,Hawks Island,BH93,9,1793,,,,,,,,,"""(Ja.s Corridans a/c C.o in R.M""",#N/A,,,0
+y,213.9,James Corridan a/c Roger McGrath,Hawks Island,BH93,9,1793,,,,,,,,,"""NB several of the articles opposite was received by James Corridan & noted on the Day Books but not mentioned here as no acc.t was opened for Coridan -- but the articles above taken out of th D. Side of Roger McGrath.""",#N/A,,,0
+y,214,Samuel Shappick,Hawks Island,BH93,12,1793,,,,,,,,,"""[…] Per Fogo Ledger""",#N/A,0,0,0
+y,216.1,William Gale,Tilseds Post,BH93,20,,,,,,,,,,"""[…] Per Fogo Ledger""",#N/A,,,0
+y,226,Samuel Score,Tilseds Post,BH93,22,1793,,,,,,,,,"""[…] Per Fogo Ledger""",#N/A,0,0,0
+y,238,James Clark,Hawks Island,BH93,23,1793,,,,,,,,,"""[…] Per Fogo Ledger""",#N/A,0,0,0
+y,246,John Craze,Tilseds Post,BH93,25,1793,,,,,,,,,"""[…] Per Fogo Ledger""",#N/A,0,0,0
+,247,John Craze,Tilseds Post,N93,146,1793,my,28,1,q,by,,1,6,,148,1,1.5,1
+,247.01,John Craze,Tilseds Post,N93,146,1792,o,12,2,g,by,,12,,,285,8,12,8
+,248,John Craze,Tilseds Post,N93,146,1793,jn,23,0.5,g,be,,1,6,,174,2,1.5,0.5
+,249,John Craze,Tilseds Post,N93,146,1793,jn,24,1.5,g,be,,4,6,,175,6,4.5,1.5
+,250,John Craze,Tilseds Post,N93,146,1793,jn,25,1.5,g,be,,4,6,,176,6,4.5,1.5
+,251,John Craze,Tilseds Post,N93,146,1793,jn,26,1.5,g,be,,4,6,,177,6,4.5,1.5
+,252,John Craze,Tilseds Post,N93,146,1793,jn,27,0.5,g,be,,1,6,,178,2,1.5,0.5
+,253,John Craze,Tilseds Post,N93,146,1793,jn,29,1,g,be,,3,,,180,4,3,1
+,254,John Craze,Tilseds Post,N93,146,1793,jl,2,0.5,g,be,,1,6,,183,2,1.5,0.5
+,255,John Craze,Tilseds Post,N93,146,1793,jl,7,1,g,be,,3,,,188,4,3,1
+,256,John Craze,Tilseds Post,N93,146,1793,jl,18,1,g,be,,3,,,199,4,3,1
+,257,John Craze,Tilseds Post,N93,146,1793,jl,24,1,q,by,,1,9,,205,1,1.75,1
+,258,John Craze,Tilseds Post,N93,146,1793,jl,31,1,q,r,,2,3,,212,1,2.25,1
+,259,John Craze,Tilseds Post,N93,25,1793,au,15,1,q,r,,2,3,,227,1,2.25,1
+,260,John Craze,Tilseds Post,N93,25,1793,au,17,1,q,r,,2,3,,229,1,2.25,1
+,261,John Craze,Tilseds Post,N93,25,1793,au,23,0.5,g,be,,1,6,,235,2,1.5,0.5
+,262,John Craze,Tilseds Post,N93,25,1793,au,26,1,g,be,,3,,,238,4,3,1
+,263,John Craze,Tilseds Post,N93,25,1793,au,27,1,g,be,,3,,,239,4,3,1
+,264,John Craze,Tilseds Post,N93,146,1793,s,2,0.5,g,be,,1,6,,245,2,1.5,0.5
+,265,John Craze,Tilseds Post,N93,146,1793,s,5,1,q,by,,1,9,,248,1,1.75,1
+,266,John Craze,Tilseds Post,N93,146,1793,s,7,1,q,by,,1,9,,250,1,1.75,1
+,267,John Craze,Tilseds Post,N93,146,1793,s,10,1,q,by,,1,9,,253,1,1.75,1
+,268,John Craze,Tilseds Post,N93,146,1793,s,21,1,q,r,,2,3,,264,1,2.25,1
+,269,John Craze,Tilseds Post,N93,146,1793,s,23,2,q,be,,1,6,,266,2,1.5,0.5
+,270,John Craze,Tilseds Post,N93,146,1793,s,25,1,q,r,,2,3,,268,1,2.25,1
+,271,John Craze,Tilseds Post,N93,146,1793,s,25,1,g,be,,3,,,268,4,3,1
+,272,John Craze,Tilseds Post,N93,146,1793,o,3,3,q,r,,6,9,,276,3,6.75,3
+y,273,John Craze,Tilseds Post,BH93,25,1793,,,,,,,,,"""Balance to be paid Mr. John Randle X Church""",#N/A,0,0,0
+y,274,John Stiles,Hawks Bay,BH93,26,1793,,,,,,,,,[no alc.],#N/A,0,0,0
+y,275,William Stickley,Lewis Bay,BH93,26,1793,,,,,,,,,"""[…] Per Fogo Ledger""",#N/A,0,0,0
+y,281.1,John Yeatman,Hawks Island,BH93,31,1793,,,,,,,,,"""[…] Per Fogo Ledger""",#N/A,0,0,0
+y,285,George Cox,Tilseds Post,N93,62,1793,,,,,,,,,"""[…] Per Old Book",#N/A,0,0,0
+y,286,George Cox,Tilseds Post,N93,62,1793,,,,,,,,,"[Clothing, Hardware, and Bills]",#N/A,0,0,0
+y,287,William Broomfield,Lewis Bay,N93,63,1793,,,,,,,,,"""[…] Per Old Book",#N/A,0,0,0
+y,288,William Broomfield,Lewis Bay,N93,63,1793,,,,,,,,,"[Clothing, Hardware, and Bills]",#N/A,0,0,0
+y,289,Roger McGrath,Hawks Island,N93,72,1792,o,11,1,q,by,,1,,,284,1,1,1
+b,290,Roger McGrath,Hawks Island,N93,72,1792,o,31,1,q,by,,1,,,304,1,1,1
+b,291,Roger McGrath,Hawks Island,N93,72,1792,d,25,2,q,by,,2,,,359,2,2,2
+b,292,Roger McGrath,Hawks Island,N93,72,1793,ja,5,2,q,by,,2,,,5,2,2,2
+b,293,Roger McGrath,Hawks Island,N93,72,1793,ja,8,2,q,by,,2,,,8,2,2,2
+b,294,Roger McGrath,Hawks Island,N93,72,1793,ja,19,1,q,r,,1,6,,19,1,1.5,1
+b,295,Roger McGrath,Hawks Island,N93,72,1793,ja,29,1,q,r,,1,6,,29,1,1.5,1
+b,296,Roger McGrath,Hawks Island,N93,72,1793,mr,1,2,q,by,,2,,,60,2,2,2
+b,297,Roger McGrath,Hawks Island,N93,72,1793,mr,10,7,q,by,,7,,,69,7,7,7
+b,298,Roger McGrath,Hawks Island,N93,72,1793,my,15,1,q,by,,1,,,135,1,1,1
+b,299,Roger McGrath,Hawks Island,N93,72,1793,my,17,1,q,by,,1,,,137,1,1,1
+b,300,Roger McGrath,Hawks Island,N93,72,1793,my,18,2,q,by,,2,,,138,2,2,2
+b,301,Roger McGrath,Hawks Island,N93,72,1793,my,21,1,q,by,,1,,,141,1,1,1
+b,301.1,Roger McGrath,Hawks Island,N93,72,1793,my,22,1,q,by,,1,,,142,1,1,1
+b,301.2,Roger McGrath,Hawks Island,N93,72,1793,my,24,1,q,by,,1,,,144,1,1,1
+b,302,Roger McGrath,Hawks Island,N93,72,1793,my,25,1,q,by,,1,,,145,1,1,1
+b,303,Roger McGrath,Hawks Island,N93,72,1793,jn,30,1,q,by,,1,3,,181,1,1.25,1
+b,304,Roger McGrath,Hawks Island,N93,72,1793,jl,3,1,g,be,,2,6,,184,4,2.5,1
+b,305,Roger McGrath,Hawks Island,N93,72,1793,jl,14,1,g,by,,5,,,195,4,5,4
+b,306,Roger McGrath,Hawks Island,N93,72,1793,au,2,1,q,r,,1,6,,214,1,1.5,1
+b,307,Roger McGrath,Hawks Island,N93,72,1793,au,9,1,q,r,,1,6,,221,1,1.5,1
+b,308,Roger McGrath,Hawks Island,N93,72,1793,au,15,1,q,r,,1,6,,227,1,1.5,1
+b,309,Roger McGrath,Hawks Island,N93,72,1793,au,17,1,g,be,,2,6,,229,4,2.5,1
+b,310,Roger McGrath,Hawks Island,N93,72,1793,au,22,1,g,be,,2,6,,234,4,2.5,1
+b,311,Roger McGrath,Hawks Island,N93,72,1793,au,26,0.5,g,be,,1,3,,238,2,1.25,0.5
+b,312,Roger McGrath,Hawks Island,N93,72,1793,au,31,1,g,be,,2,6,,243,4,2.5,1
+b,313,Roger McGrath,Hawks Island,N93,72,1793,s,3,1,q,by,,1,3,,246,1,1.25,1
+y,314,Roger McGrath,Hawks Island,N93,72,1793,s,6,1,q,r,,1,6,,249,1,1.5,1
+y,315,Roger McGrath,Hawks Island,N93,72,1793,s,10,1,q,r,,1,6,,253,1,1.5,1
+bjc,316,Roger McGrath,Hawks Island,N93,72,1793,au,4,1,g,r,,6,,"""Per Jas. Corridan""",216,4,6,4
+bjc,317,Roger McGrath,Hawks Island,N93,72,1793,au,15,1,q,r,,1,6,"""Per Jas. Corridan""",227,1,1.5,1
+bjc,318,Roger McGrath,Hawks Island,N93,72,1793,au,17,1,q,r,,1,6,"""Per Jas. Corridan""",229,1,1.5,1
+bjc,319,Roger McGrath,Hawks Island,N93,72,1793,au,25,0.5,g,be,,1,3,"""Per Jas. Corridan""",237,2,1.25,0.5
+y,320,Roger McGrath,Hawks Island,N93,72,1793,s,13,1,q,r,,1,6,,256,1,1.5,1
+y,321,Roger McGrath,Hawks Island,N93,72,1793,s,13,1,g,be,,2,6,,256,4,2.5,1
+y,322,Roger McGrath,Hawks Island,N93,72,1793,s,14,1,q,r,,1,6,,257,1,1.5,1
+y,323,Roger McGrath,Hawks Island,N93,72,1793,s,15,1,q,r,,1,6,,258,1,1.5,1
+bjc,324,Roger McGrath,Hawks Island,N93,72,1793,s,9,2,q,by,,2,6,"""Per Jas. Corridan""",252,2,2.5,2
+bjc,325,Roger McGrath,Hawks Island,N93,72,1793,s,18,1,q,r,,1,6,"""Per Jas. Corridan""",261,1,1.5,1
+bjc,326,Roger McGrath,Hawks Island,N93,72,1793,s,20,1,q,r,,1,6,"""Per Jas. Corridan""",263,1,1.5,1
+b,327,Roger McGrath,Hawks Island,N93,72,1793,s,28,2,q,r,,3,,"""Per Jas. Corridan""",271,2,3,2
+b,328,Roger McGrath,Hawks Island,N93,72,1793,s,29,1,g,r,,6,,,272,4,6,4
+y,329,William Gale,Tilseds Post,N93,78,1792,,,,,,,,,"""[…] Per old Book""",#N/A,0,0,0
+y,330,William Gale,Tilseds Post,N93,78,1793,jl,2,0.5,g,be,,1,6,,183,2,1.5,0.5
+y,331,John Stiles,Hawks Bay,N93,118,1793,,,,,,,,,[no alc entries],#N/A,0,0,0
+y,332,James Clark,Hawks Island,N93,126,1793,jn,19,0.5,g,be,,1,6,,170,2,1.5,0.5
+y,333,James Clark,Hawks Island,N93,126,1793,jn,24,1,g,be,,3,,,175,4,3,1
+y,334,James Clark,Hawks Island,N93,126,1793,jn,26,0.5,g,be,,1,6,,177,2,1.5,0.5
+y,335,James Clark,Hawks Island,N93,126,1793,jl,3,0.5,g,be,,1,6,,184,2,1.5,0.5
+y,336,James Clark,Hawks Island,N93,126,1793,s,12,1,q,by,,1,9,,255,1,1.75,1
+y,337,James Clark,Hawks Island,N93,126,1793,s,4,0.5,g,be,,1,6,,247,2,1.5,0.5
+y,338,James Clark,Hawks Island,N93,126,1793,s,21,1,q,r,,2,3,,264,1,2.25,1
+y,339,James Clark,Hawks Island,N93,126,1793,s,29,2,q,r,,4,6,,272,2,4.5,2
+y,340,William Stickley,Lewis Bay,N93,130,1793,jl,6,1,g,be,,3,,,187,4,3,1
+y,341,William Stickley,Lewis Bay,N93,130,1793,jl,7,0.5,g,be,,1,6,,188,2,1.5,0.5
+y,342,William Stickley,Lewis Bay,N93,130,1793,au,24,1,g,be,,3,,,236,4,3,1
+y,343,William Stickley,Lewis Bay,N93,130,1793,s,20,1,q,r,,2,3,,263,1,2.25,1
+y,344,William Stickley,Lewis Bay,N93,130,1793,s,21,3,q,r,,6,9,,264,3,6.75,3
+y,345,William Stickley,Lewis Bay,N93,130,1793,s,21,2,q,be,,1,6,,264,2,1.5,0.5
+y,346,Samuel Score,Tilseds Post,N93,134,1793,jn,9,2,q,be,,1,6,,160,2,1.5,0.5
+y,347,Samuel Score,Tilseds Post,N93,134,1793,jn,19,0.5,g,be,,1,6,,170,2,1.5,0.5
+y,348,Samuel Score,Tilseds Post,N93,134,1793,jn,24,0.5,g,be,,1,6,,175,2,1.5,0.5
+y,349,Samuel Score,Tilseds Post,N93,134,1793,jl,6,0.5,g,be,,1,6,,187,2,1.5,0.5
+y,350,Samuel Score,Tilseds Post,N93,134,1793,jl,13,0.5,g,be,,1,6,,194,2,1.5,0.5
+y,351,Samuel Score,Tilseds Post,N93,134,1793,jl,25,0.5,g,be,,1,6,,206,2,1.5,0.5
+y,352,Samuel Score,Tilseds Post,N93,134,1793,jl,28,1,q,r,,2,3,,209,1,2.25,1
+y,353,Samuel Score,Tilseds Post,N93,134,1793,au,18,1,g,be,,3,,,230,4,3,1
+y,354,Samuel Score,Tilseds Post,N93,134,1793,au,21,0.5,g,be,,1,6,,233,2,1.5,0.5
+y,355,Samuel Score,Tilseds Post,N93,134,1793,s,1,1,q,by,,1,9,,244,1,1.75,1
+y,356,Samuel Score,Tilseds Post,N93,134,1793,s,25,2,q,r,,2,3,,268,2,2.25,2
+y,357,Samuel Score,Tilseds Post,N93,134,1793,o,3,2,q,r,,4,6,,276,2,4.5,2
+y,358,John Yeatman,Hawks Island,N93,135,1793,au,12,1,q,by,,1,9,,224,1,1.75,1
+y,359,John Yeatman,Hawks Island,N93,135,1793,au,23,0.5,g,be,,1,6,,235,2,1.5,0.5
+y,360,John Yeatman,Hawks Island,N93,135,1793,s,1,1,q,by,,1,9,,244,1,1.75,1
+y,360.1,John Frampton,Hawks Bay,N93,143,1792,,,,,,,,,[no alc entries],#N/A,0,0,0
+y,361,John Frampton,Hawks Bay,N93,143,1792,,,,,,,,,"""Ballance to be paid to Mr John Bird Poole""",#N/A,0,0,0
+y,362,William Holloway,Hawks Island,N93,143,1792,s,18,1,q,by,,1,6,,261,1,1.5,1
+y,363,William Holloway,Hawks Island,N93,143,1792,o,12,1,g,by,,6,,,285,4,6,4
+b,364,William Holloway,Hawks Island,N93,143,1793,my,22,1,q,by,,1,6,,142,1,1.5,1
+b,365,William Holloway,Hawks Island,N93,143,1793,my,25,1,q,by,,1,6,,145,1,1.5,1
+b,366,William Holloway,Hawks Island,N93,143,1793,my,28,1,q,by,,1,6,,148,1,1.5,1
+b,367,William Holloway,Hawks Island,N93,143,1793,jn,7,1,q,by,,1,6,,158,1,1.5,1
+b,368,William Holloway,Hawks Island,N93,143,1793,jn,12,1,q,by,,1,9,,163,1,1.75,1
+b,369,William Holloway,Hawks Island,N93,143,1793,jn,16,1,q,by,,1,9,,167,1,1.75,1
+b,370,William Holloway,Hawks Island,N93,143,1793,jn,23,0.5,g,be,,1,6,,174,2,1.5,0.5
+b,371,William Holloway,Hawks Island,N93,143,1793,jn,25,1,g,be,,3,,,176,4,3,1
+b,371,William Holloway,Hawks Island,N93,143,1793,jn,26,1,g,be,,3,,,177,4,3,1
+b,372,William Holloway,Hawks Island,N93,143,1793,jn,29,1,q,by,,1,9,,180,1,1.75,1
+b,373,William Holloway,Hawks Island,N93,143,1793,jl,3,0.5,g,be,,1,6,,184,2,1.5,0.5
+n,374,William Holloway,Hawks Island,N93,143,1793,jl,5,1,g,be,,3,,,186,4,3,1
+n,375,William Holloway,Hawks Island,N93,143,1793,jl,6,0.5,g,be,,1,6,,187,2,1.5,0.5
+y,376,William Holloway,Hawks Island,N93,143,1793,jl,8,1,g,be,,3,,,189,4,3,1
+b,377,William Holloway,Hawks Island,N93,143,1793,jl,13,0.5,g,be,,1,6,,194,2,1.5,0.5
+b,378,William Holloway,Hawks Island,N93,143,1793,jl,20,0.5,g,be,,1,6,,201,2,1.5,0.5
+b,379,William Holloway,Hawks Island,N93,143,1793,jl,21,1,q,by,,1,9,,202,1,1.75,1
+b,380,William Holloway,Hawks Island,N93,143,1793,jl,23,1,q,by,,1,9,,204,1,1.75,1
+b,381,William Holloway,Hawks Island,N93,143,1793,jl,25,1.5,g,be,,4,6,,206,6,4.5,1.5
+b,382,William Holloway,Hawks Island,N93,143,1793,jl,29,1,q,r,,2,3,,210,1,2.25,1
+b,383,William Holloway,Hawks Island,N93,143,1793,au,7,1,q,r,,2,3,,219,1,2.25,1
+b,384,William Holloway,Hawks Island,N93,143,1793,au,9,1,q,by,,1,9,,221,1,1.75,1
+b,385,William Holloway,Hawks Island,N93,143,1793,au,18,1,q,r,,2,3,,230,1,2.25,1
+b,386,William Holloway,Hawks Island,N93,143,1793,au,22,1,q,by,,1,9,,234,1,1.75,1
+b,387,William Holloway,Hawks Island,N93,143,1793,au,25,0.5,g,be,,1,6,,237,2,1.5,0.5
+b,388,William Holloway,Hawks Island,N93,143,1793,au,27,1,q,by,,1,9,,239,1,1.75,1
+b,389,William Holloway,Hawks Island,N93,143,1793,au,30,1,q,by,,1,9,,242,1,1.75,1
+b,390,William Holloway,Hawks Island,N93,143,1793,s,11,0.5,g,be,,1,6,,254,2,1.5,0.5
+b,391,William Holloway,Hawks Island,N93,143,1793,s,17,1,q,r,,2,3,,260,1,2.25,1
+b,392,William Holloway,Hawks Island,N93,143,1793,s,4,1,g,be,,3,,,247,4,3,1
+b,393,William Holloway,Hawks Island,N93,143,1793,s,27,1,q,r,,2,3,,270,1,2.25,1
+b,394,William Holloway,Hawks Island,N93,143,1793,s,28,1,q,r,,2,3,,271,1,2.25,1
+b,395,William Holloway,Hawks Island,N93,143,1793,s,29,2,g,r,,18,,,272,8,18,8
+b,396,William Holloway,Hawks Island,N93,143,1793,,,,,,,,,"""Ballance to be paid Mr John Bird Poole""",#N/A,0,0,0
+y,397,John Tilsed,Tilseds Post,N93,145,1793,jn,5,1,q,by,,1,9,,156,1,1.75,1
+y,398,John Tilsed,Tilseds Post,N93,145,1793,jn,8,1,q,by,,1,9,,159,1,1.75,1
+y,399,John Tilsed,Tilseds Post,N93,145,1793,jn,12,1,q,by,,1,9,,163,1,1.75,1
+y,400,John Tilsed,Tilseds Post,N93,145,1793,jn,21,1,q,by,,1,9,,172,1,1.75,1
+y,401,John Tilsed,Tilseds Post,N93,145,1793,jn,22,0.5,g,be,,1,6,,173,2,1.5,0.5
+y,402,John Tilsed,Tilseds Post,N93,145,1793,jn,23,0.5,g,be,,1,6,,174,2,1.5,0.5
+y,403,John Tilsed,Tilseds Post,N93,145,1793,jn,25,0.5,g,be,,1,6,,176,2,1.5,0.5
+y,404,John Tilsed,Tilseds Post,N93,145,1793,jn,26,1,g,be,,3,,,177,4,3,1
+y,405,John Tilsed,Tilseds Post,N93,145,1793,jl,18,0.5,g,be,,1,6,,199,2,1.5,0.5
+y,406,John Tilsed,Tilseds Post,N93,145,1793,jl,25,0.5,g,be,,1,6,,206,2,1.5,0.5
+y,407,John Tilsed,Tilseds Post,N93,145,1793,au,4,1,q,r,,2,3,,216,1,2.25,1
+y,408,John Tilsed,Tilseds Post,N93,145,1793,s,7,1,g,be,,3,,,250,4,3,1
+y,409,John Tilsed,Tilseds Post,N93,145,1793,o,3,1,g,r,,9,,,276,4,9,4
+y,410,John Tilsed,Tilseds Post,N93,145,1793,o,3,,,,,,,"""Ballance to be paid Mr. William King Winbourne""",276,0,0,0
+y,411,James Godfrey,Tilseds Post,N93,146,1792,o,12,2.25,g,by,,13,6,,285,9,13.5,9
+y,412,James Godfrey,Tilseds Post,N93,146,1793,jl,24,1,q,by,,1,9,,205,1,1.75,1
+y,413,James Godfrey,Tilseds Post,N93,146,1793,jl,25,1,g,be,,3,,,206,4,3,1
+y,414,James Godfrey,Tilseds Post,N93,146,1793,au,18,1,q,r,,2,3,,230,1,2.25,1
+y,415,James Godfrey,Tilseds Post,N93,146,1793,s,1,1,q,by,,1,9,,244,1,1.75,1
+y,416,James Godfrey,Tilseds Post,N93,146,1793,s,4,1,q,by,,1,9,,247,1,1.75,1
+y,417,James Godfrey,Tilseds Post,N93,146,1793,s,7,0.5,g,be,,1,6,,250,2,1.5,0.5
+y,418,James Godfrey,Tilseds Post,N93,146,1793,o,3,2,q,r,,4,6,,276,2,4.5,2
+y,419,James Godfrey,Tilseds Post,N93,146,1793,o,3,,,,,,,"""Ballance to be paid Mr Tho.s Colborne Sturminster Newton""",276,0,0,0
+y,420,George Dempster,Hawks Island,N93,147,1793,f,8,2,q,r,,4,0,,39,2,4,2
+y,421,George Dempster,Hawks Island,N93,147,1793,s,28,1.5,g,r,,13,6,,271,6,13.5,6
+y,422,George Dempster,Hawks Island,N93,147,1793,s,28,,,,,,,"""Ballance to be paid Mr Joseph Bird Sturminster""",271,0,0,0
+y,423,Samuel Shappick,Hawks Island,N93,92,1792,o,2,1,q,r,,2,,,275,1,2,1
+y,424,Samuel Shappick,Hawks Island,N93,92,1792,o,5,1,q,r,,2,,,278,1,2,1
+y,425,Samuel Shappick,Hawks Island,N93,92,1792,o,6,1,g,r,,8,,,279,4,8,4
+y,426,Samuel Shappick,Hawks Island,N93,92,1792,o,25,2,q,by,,3,,,298,2,3,2
+y,427,Samuel Shappick,Hawks Island,N93,92,1792,n,19,1,q,by,,1,6,,323,1,1.5,1
+y,428,Samuel Shappick,Hawks Island,N93,92,1792,n,20,2,q,by,,3,,,324,2,3,2
+y,429,Samuel Shappick,Hawks Island,N93,92,1792,n,22,2,q,by,,3,,,326,2,3,2
+y,430,Samuel Shappick,Hawks Island,N93,92,1792,d,21,1,q,by,,1,6,,355,1,1.5,1
+y,431,Samuel Shappick,Hawks Island,N93,92,1793,my,16,1,q,by,,1,6,,136,1,1.5,1
+y,432,Samuel Shappick,Hawks Island,N93,172,1793,o,3,1,g,r,,9,,,276,4,9,4
+y,432.1,Samuel Shappick,Hawks Island,N93,172,1793,o,3,,,,,,,"""Ballance due to J. Slade & Co""",276,0,0,0
+y,432.2,Frederick Churchill,Battle Harbour,BH93,31,1793,,,,,,,,,"""[…] Fogo Ledger""",#N/A,0,0,0
+b,444.1,Frederick Churchill,Battle Harbour,N93,135,1793,jn,26,0.5,g,be,,1,6,,177,2,1.5,0.5
+b,444.2,Frederick Churchill,Battle Harbour,N93,135,1793,jl,3,0.5,g,be,,1,6,,184,2,1.5,0.5
+b,444.3,Frederick Churchill,Battle Harbour,N93,135,1793,jl,8,1,g,be,,3,,,189,4,3,1
+b,444.4,Frederick Churchill,Battle Harbour,N93,135,1793,jl,25,0.5,g,be,,1,6,,206,2,1.5,0.5
+b,444.5,Frederick Churchill,Battle Harbour,N93,135,1793,au,11,1,q,r,,2,3,,223,1,2.25,1
+b,444.6,Frederick Churchill,Battle Harbour,N93,135,1793,au,12,1,q,r,,2,3,,224,1,2.25,1
+b,444.7,Frederick Churchill,Battle Harbour,N93,135,1793,au,19,1,q,by,,1,9,,231,1,1.75,1
+b,444.8,Frederick Churchill,Battle Harbour,N93,135,1793,au,21,0.5,g,be,,1,6,,233,2,1.5,0.5
+b,444.9,Frederick Churchill,Battle Harbour,N93,135,1793,au,22,1,q,by,,1,9,,234,1,1.75,1
+b,445,Frederick Churchill,Battle Harbour,N93,135,1793,s,8,0.5,g,be,,1,6,,251,2,1.5,0.5
+b,445.1,Frederick Churchill,Battle Harbour,N93,135,1793,s,7,0.5,g,be,,1,6,,250,2,1.5,0.5
+y,446,John Rose,Battle Harbour,BH93,22,1793,,,,,,,,,"""[…] Fogo Ledger""",#N/A,0,0,0
+y,462,John Rose,Battle Harbour,N93,129,1793,jn,10,2,q,be,,1,6,,161,2,1.5,0.5
+b,462.1,John Rose,Battle Harbour,N93,129,1793,jn,20,0.5,g,be,,1,6,,171,2,1.5,0.5
+b,462.2,John Rose,Battle Harbour,N93,129,1793,jn,22,0.5,g,be,,1,6,,173,2,1.5,0.5
+b,462.3,John Rose,Battle Harbour,N93,129,1793,jn,23,0.5,g,be,,1,6,,174,2,1.5,0.5
+b,462.4,John Rose,Battle Harbour,N93,129,1793,jn,24,2,g,be,,6,,,175,8,6,2
+b,462.5,John Rose,Battle Harbour,N93,129,1793,au,17,1,q,r,,2,3,,229,1,2.25,1
+b,462.5,John Rose,Battle Harbour,N93,129,1793,au,21,0.5,g,be,,1,6,,233,2,1.5,0.5
+b,462.5,John Rose,Battle Harbour,N93,129,1793,au,25,1,g,be,,3,,,237,4,3,1
+b,462.5,John Rose,Battle Harbour,N93,129,1793,au,31,0.5,g,be,,1,6,,243,2,1.5,0.5
+b,462.5,John Rose,Battle Harbour,N93,129,1793,jl,6,0.5,g,be,,1,6,,187,2,1.5,0.5
+b,462.5,John Rose,Battle Harbour,N93,129,1793,s,10,1,g,be,,3,,,253,4,3,1
+b,462.5,John Rose,Battle Harbour,N93,129,1793,s,11,1,g,be,,3,,,254,4,3,1
+b,462.5,John Rose,Battle Harbour,N93,129,1793,s,26,1,q,r,,2,3,,269,1,2.25,1
+b,462.6,John Rose,Battle Harbour,N93,129,1793,jl,30,1,q,r,,2,3,,211,1,2.25,1
+b,463,John Rose,Battle Harbour,N93,129,1793,o,3,,,,,,,"""To paid Ric.d Hood 8/""",276,0,0,0
+b,464,John Rose,Battle Harbour,N93,129,1793,o,3,,,,,,,"""Acco.t J. Stoodley 8/",276,0,0,0
+y,465,John Rose,Battle Harbour,N93,129,1793,o,3,,,,,,,"""To be paid his Brother Geo. Rose for his wife 2..0..0""",276,0,0,0
+y,466,John Rumbold,Battle Harbour,BH93,21,1793,,,,,,,,,"""[…] Fogo Ledger""",#N/A,0,0,0
+y,485,John Rumbold,Battle Harbour,BH93,21,1793,,,,,,,,,"""Balance to be paid to be paid Mr. John Aldridge X Church",#N/A,0,0,0
+y,486,John Rumbold,Battle Harbour,N93,144,1792,o,12,2,g,by,,12,,,285,8,12,8
+y,487,John Rumbold,Battle Harbour,N93,144,1793,f,8,2,q,r,,4,,,39,2,4,2
+b,487.1,John Rumbold,Battle Harbour,N93,144,1793,jl,23,1,q,by,,1,9,,204,1,1.75,1
+b,487.2,John Rumbold,Battle Harbour,N93,144,1793,jl,24,2,q,by,,3,9,,205,2,3.75,2
+b,487.3,John Rumbold,Battle Harbour,N93,144,1793,jl,25,0.5,g,be,,1,6,,206,2,1.5,0.5
+b,487.4,John Rumbold,Battle Harbour,N93,144,1793,au,28,1,q,r,,2,3,,240,1,2.25,1
+b,487.5,John Rumbold,Battle Harbour,N93,144,1793,au,31,1,q,by,,1,9,,243,1,1.75,1
+b,487.6,John Rumbold,Battle Harbour,N93,144,1793,au,31,0.5,g,be,,1,6,,243,2,1.5,0.5
+b,487.7,John Rumbold,Battle Harbour,N93,144,1793,s,2,1,g,be,,3,,,245,4,3,1
+b,487.8,John Rumbold,Battle Harbour,N93,144,1793,s,3,1,q,by,,1,9,,246,1,1.75,1
+b,487.9,John Rumbold,Battle Harbour,N93,144,1793,s,9,0.5,g,be,,1,6,,252,2,1.5,0.5
+b,487.91,John Rumbold,Battle Harbour,N93,144,1793,s,10,0.5,g,be,,1,6,,253,2,1.5,0.5
+b,488,John Rumbold,Battle Harbour,N93,144,1793,s,18,1,q,r,,2,3,,261,1,2.25,1
+b,488.1,John Rumbold,Battle Harbour,N93,144,1793,s,7,4,q,be,,3,,,250,4,3,1
+b,488.2,John Rumbold,Battle Harbour,N93,144,1793,s,20,1,q,r,,2,3,,263,1,2.25,1
+b,488.3,John Rumbold,Battle Harbour,N93,144,1793,s,21,2,q,r,,3,6,,264,2,3.5,2
+b,488.4,John Rumbold,Battle Harbour,N93,144,1793,s,21,1,g,be,,3,,,264,4,3,1
+b,488.5,John Rumbold,Battle Harbour,N93,144,1793,s,24,1,g,be,,3,,,267,4,3,1
+b,488.6,John Rumbold,Battle Harbour,N93,144,1793,s,29,1,q,r,,2,3,,272,1,2.25,1
+b,488.7,John Rumbold,Battle Harbour,N93,144,1793,o,4,1,q,r,,2,3,,277,1,2.25,1
+y,489,John Tewksbury,Battle Harbour,BH93,14,1792,,,,,,,,,"""[…] per old Book""",#N/A,0,0,0
+y,490,John Tewksbury,Battle Harbour,BH93,14,1792,,,,,,,,,"""To Sundries the Winter""",#N/A,0,0,0
+y,496,John Tewksbury,Battle Harbour,BH93,14,1792,,,,,,,,,"""Balance to be paid Mr. John Bird Poole""",#N/A,0,0,0
+y,497,John Tewksbury,Battle Harbour,N93,85,1793,f,1,1,q,r,,2,,"""[…] per old Book""",32,1,2,1
+y,498,John Tewksbury,Battle Harbour,N93,85,1793,jn,21,0.5,g,be,,1,6,,172,2,1.5,0.5
+y,499,John Tewksbury,Battle Harbour,N93,85,1793,s,6,0.5,g,be,,1,6,,249,2,1.5,0.5
+y,500,John Tewksbury,Battle Harbour,N93,85,1793,s,20,2,q,be,,1,6,,263,2,1.5,0.5
+y,501,John Tewksbury,Battle Harbour,N93,85,1793,s,21,2,q,be,,1,6,,264,2,1.5,0.5
+y,502,John Tewksbury,Battle Harbour,N93,85,1793,s,26,2,q,be,,1,6,,269,2,1.5,0.5
+y,503,John Tewksbury,Battle Harbour,N93,85,1793,,,,,,,,,"""Balance to be paid to M.r John Bird Poole""",#N/A,0,0,0
+y,504,Joseph Knapp,Battle Harbour,BH93,14,1792,,,,,,,,,"""[…] Fogo Ledger""",#N/A,0,0,0
+y,520,Joseph Knapp,Battle Harbour,BH93,14,1792,au,2,1,q,by,,1,9,,214,1,1.75,1
+y,546,Joseph Knapp,Battle Harbour,N93,92,1792,o,22,1,g,cy,,3,,,295,4,3,1
+y,547,Joseph Knapp,Battle Harbour,N93,92,1792,o,25,1,q,r,,2,,,298,1,2,1
+y,548,Joseph Knapp,Battle Harbour,N93,92,1792,s,26,2,g,cy,,6,,,269,8,6,2
+y,549,Joseph Knapp,Battle Harbour,N93,92,1792,s,28,2,q,cy,,1,6,,271,2,1.5,0.5
+y,550,Joseph Knapp,Battle Harbour,N93,92,1792,s,29,3,q,by,,4,6,,272,3,4.5,3
+y,551,Joseph Knapp,Battle Harbour,N93,92,1792,o,1,2,q,by,,3,,,274,2,3,2
+y,552,Joseph Knapp,Battle Harbour,N93,92,1792,o,17,1,q,by,,1,6,,290,1,1.5,1
+y,553,Joseph Knapp,Battle Harbour,N93,92,1792,n,21,1,q,by,,1,6,,325,1,1.5,1
+y,554,Joseph Knapp,Battle Harbour,N93,92,1792,d,5,1,q,by,,1,6,,339,1,1.5,1
+y,555,Joseph Knapp,Battle Harbour,N93,92,1792,d,12,1,q,by,,1,6,,346,1,1.5,1
+y,556,Joseph Knapp,Battle Harbour,N93,92,1792,d,18,1,q,by,,1,6,,352,1,1.5,1
+y,557,Joseph Knapp,Battle Harbour,N93,92,1792,d,25,1,q,by,,1,6,,359,1,1.5,1
+y,558,Joseph Knapp,Battle Harbour,N93,92,1793,ja,12,1,q,by,,1,6,,12,1,1.5,1
+y,559,Joseph Knapp,Battle Harbour,N93,92,1793,ja,14,1,q,by,,1,6,,14,1,1.5,1
+y,560,Joseph Knapp,Battle Harbour,N93,92,1793,ja,26,1,q,by,,1,6,,26,1,1.5,1
+y,561,Joseph Knapp,Battle Harbour,N93,92,1793,ja,30,1,q,r,,2,,,30,1,2,1
+y,562,Joseph Knapp,Battle Harbour,N93,92,1793,f,7,1,q,r,,2,,,38,1,2,1
+y,563,Joseph Knapp,Battle Harbour,N93,92,1793,f,8,1,q,by,,2,,,39,1,2,1
+y,564,Joseph Knapp,Battle Harbour,N93,92,1793,f,18,1,q,by,,1,6,,49,1,1.5,1
+y,566,Joseph Knapp,Battle Harbour,N93,92,1793,my,22,1,q,by,,1,6,,142,1,1.5,1
+y,568,Joseph Knapp,Battle Harbour,N93,92,1793,my,25,1,q,by,,1,6,,145,1,1.5,1
+y,569,Joseph Knapp,Battle Harbour,N93,92,1793,jn,7,1,q,by,,1,9,,158,1,1.75,1
+y,570,Joseph Knapp,Battle Harbour,N93,92,1793,jn,10,1,q,by,,1,9,,161,1,1.75,1
+y,571,Joseph Knapp,Battle Harbour,N93,92,1793,jn,16,1,q,by,,1,9,,167,1,1.75,1
+y,572,Joseph Knapp,Battle Harbour,N93,92,1793,jn,21,1,q,by,,1,9,,172,1,1.75,1
+y,573,Joseph Knapp,Battle Harbour,N93,92,1793,jn,25,0.5,g,be,,1,6,,176,2,1.5,0.5
+y,574,Joseph Knapp,Battle Harbour,N93,92,1793,jn,26,1,q,by,,1,9,,177,1,1.75,1
+y,575,Joseph Knapp,Battle Harbour,N93,92,1793,jl,2,0.5,g,be,,1,6,,183,2,1.5,0.5
+y,576,Joseph Knapp,Battle Harbour,N93,92,1793,jl,5,1,q,by,,1,9,,186,1,1.75,1
+y,577,Joseph Knapp,Battle Harbour,N93,92,1793,jl,6,0.5,g,be,,1,6,,187,2,1.5,0.5
+y,578,Joseph Knapp,Battle Harbour,N93,92,1793,jl,14,0.5,g,be,,1,6,,195,2,1.5,0.5
+y,579,Joseph Knapp,Battle Harbour,N93,92,1793,jl,22,1,q,by,,1,9,,203,1,1.75,1
+y,580,Joseph Knapp,Battle Harbour,N93,92,1793,jl,25,1,g,be,,3,,,206,4,3,1
+y,581,Joseph Knapp,Battle Harbour,N93,92,1793,jl,30,1,q,r,,2,3,,211,1,2.25,1
+y,582,Joseph Knapp,Battle Harbour,N93,171,1793,au,2,1,q,by,,1,9,,214,1,1.75,1
+y,594,Joseph Knapp,Battle Harbour,N93,171,1793,au,31,1,q,by,,1,9,,243,1,1.75,1
+y,595,Joseph Knapp,Battle Harbour,N93,171,1793,s,9,0.5,g,be,,1,6,,252,2,1.5,0.5
+y,596,Joseph Knapp,Battle Harbour,N93,171,1793,s,10,1,g,be,,3,,,253,4,3,1
+y,597,Joseph Knapp,Battle Harbour,N93,171,1793,s,11,2,g,be,,6,,,254,8,6,2
+y,598,Joseph Knapp,Battle Harbour,N93,171,1793,s,12,1,q,by,,1,9,,255,1,1.75,1
+y,599,Joseph Knapp,Battle Harbour,N93,171,1793,s,18,,,,,,,"""To Acc.t Jonathan Stoodly""",261,0,0,0
+y,600,Joseph Knapp,Battle Harbour,N93,171,1793,s,4,1,q,by,,1,9,,247,1,1.75,1
+y,601,Joseph Knapp,Battle Harbour,N93,171,1793,s,7,1,q,by,,1,9,,250,1,1.75,1
+y,602,Joseph Knapp,Battle Harbour,N93,171,1793,s,21,2,q,be,,1,6,,264,2,1.5,0.5
+y,603,Joseph Knapp,Battle Harbour,N93,171,1793,s,24,1,q,r,,2,3,,267,1,2.25,1
+y,604,Joseph Knapp,Battle Harbour,N93,171,1793,s,25,2,q,be,,1,6,,268,2,1.5,0.5
+y,605,Joseph Knapp,Battle Harbour,N93,171,1793,s,28,1,q,by,,1,9,,271,1,1.75,1
+y,606,Joseph Knapp,Battle Harbour,N93,171,1793,s,30,2,q,be,,1,6,,273,2,1.5,0.5
+y,607,Joseph Knapp,Battle Harbour,N93,171,1793,o,2,1,q,r,,2,3,,275,1,2.25,1
+y,608,Joseph Knapp,Battle Harbour,N93,171,1793,,,,,,,,,"""By difference 1 Qt Rum charged for Brandy /6""",#N/A,0,0,0
+y,609,Joseph Knapp,Battle Harbour,N93,171,1793,,,,,,,,,"""Balance due to J. Slade & Co""",#N/A,0,0,0
+y,610,Matthias Daw,Battle Harbour,BH93,17,1793,,,,,,,,,"""[…] Fogo Ledger""",#N/A,0,0,0
+y,611,Matthias Daw,Battle Harbour,BH93,17,1793,,,,,,,,,"""Balance to be paid to Mr. Js. Bird Sturmt.""",#N/A,0,0,0
+b,612,Matthias Daw,Battle Harbour,N93,171,1793,au,1,1,q,r,,2,3,,213,1,2.25,1
+b,613,Matthias Daw,Battle Harbour,N93,171,1793,au,9,1,q,r,,2,3,,221,1,2.25,1
+b,614,Matthias Daw,Battle Harbour,N93,171,1793,au,19,1,g,be,,3,,,231,4,3,1
+b,615,Matthias Daw,Battle Harbour,N93,171,1793,au,23,1,g,be,,3,,,235,4,3,1
+b,616,Matthias Daw,Battle Harbour,N93,171,1793,au,24,1,g,be,,3,,,236,4,3,1
+b,617,Matthias Daw,Battle Harbour,N93,171,1793,s,2,0.5,g,be,,1,6,,245,2,1.5,0.5
+b,618,Matthias Daw,Battle Harbour,N93,171,1793,s,10,1,g,be,,3,,,253,4,3,1
+b,619,Matthias Daw,Battle Harbour,N93,171,1793,s,11,1,g,be,,3,,,254,4,3,1
+b,620,Matthias Daw,Battle Harbour,N93,171,1793,s,25,2,q,be,,1,6,,268,2,1.5,0.5
+b,621,Matthias Daw,Battle Harbour,N93,171,1793,s,26,1,q,r,,2,3,,269,1,2.25,1
+y,622,Matthias Daw,Battle Harbour,N93,171,1793,,,,,,,,,"""Balance to be paid to Mr. Joseph Bird Sturminster""",#N/A,0,0,0
+y,623,Matthias Daw,Battle Harbour,N93,95,1792,o,19,,,,,16,,"""To 2 Gal.s Rum to H Dale 0/16/0""",292,0,16,0
+y,624,Matthias Daw,Battle Harbour,N93,95,1792,s,28,1,g,cy,,3,,,271,4,3,1
+y,625,Matthias Daw,Battle Harbour,N93,95,1792,n,27,1,q,by,,1,6,,331,1,1.5,1
+y,626,Matthias Daw,Battle Harbour,N93,95,1792,d,19,1,q,by,,1,6,,353,1,1.5,1
+y,627,Matthias Daw,Battle Harbour,N93,95,1792,d,21,1,q,r,,2,,,355,1,2,1
+y,628,Matthias Daw,Battle Harbour,N93,95,1792,d,25,2,q,r,,4,,,359,2,4,2
+y,629,Matthias Daw,Battle Harbour,N93,95,1792,d,30,1,q,by,,1,6,,364,1,1.5,1
+y,630,Matthias Daw,Battle Harbour,N93,95,1792,d,31,1,q,r,,2,0,,365,1,2,1
+y,631,Matthias Daw,Battle Harbour,N93,95,1793,ja,15,1,q,r,,2,,,15,1,2,1
+y,632,Matthias Daw,Battle Harbour,N93,95,1793,ja,25,1,q,by,,1,6,,25,1,1.5,1
+y,633,Matthias Daw,Battle Harbour,N93,95,1793,ja,29,1,q,r,,2,,,29,1,2,1
+y,634,Matthias Daw,Battle Harbour,N93,95,1793,f,1,1,q,r,,2,,,32,1,2,1
+y,635,Matthias Daw,Battle Harbour,N93,95,1793,mr,2,1,q,by,,1,6,,61,1,1.5,1
+b,636,Matthias Daw,Battle Harbour,N93,95,1793,my,25,1,q,by,,1,6,,145,1,1.5,1
+b,637,Matthias Daw,Battle Harbour,N93,95,1793,jn,23,0.5,g,be,,1,6,,174,2,1.5,0.5
+b,638,Matthias Daw,Battle Harbour,N93,95,1793,jn,24,2.5,g,be,,7,6,,175,10,7.5,2.5
+b,639,Matthias Daw,Battle Harbour,N93,95,1793,jn,25,0.5,g,be,,1,6,,176,2,1.5,0.5
+b,640,Matthias Daw,Battle Harbour,N93,95,1793,jn,26,0.5,g,be,,1,6,,177,2,1.5,0.5
+b,641,Matthias Daw,Battle Harbour,N93,95,1793,jl,2,1,g,be,,3,,,183,4,3,1
+b,642,Matthias Daw,Battle Harbour,N93,95,1793,jl,6,1,g,be,,3,,,187,4,3,1
+b,643,Matthias Daw,Battle Harbour,N93,95,1793,jl,8,1,g,be,,3,,,189,4,3,1
+b,644,Matthias Daw,Battle Harbour,N93,95,1793,jl,9,1,q,by,,1,9,,190,1,1.75,1
+b,645,Matthias Daw,Battle Harbour,N93,95,1793,jl,13,1,g,be,,3,,,194,4,3,1
+b,646,Matthias Daw,Battle Harbour,N93,95,1793,jl,18,0.5,g,be,,1,6,,199,2,1.5,0.5
+,647,Owen Swiney,Battle Harbour,BH93,30,1793,,,,,,,,,"""[…] Fogo Ledger""",#N/A,0,0,0
+y,648,Owen Swiney,Battle Harbour,N93,121,1793,my,20,1,q,r,,2,,,140,1,2,1
+y,649,Owen Swiney,Battle Harbour,N93,121,1793,my,24,1,q,r,,2,,,144,1,2,1
+y,650,Owen Swiney,Battle Harbour,N93,121,1793,my,26,1,q,r,,2,,,146,1,2,1
+y,651,Owen Swiney,Battle Harbour,N93,121,1793,my,29,1,q,r,,2,,,149,1,2,1
+y,652,Owen Swiney,Battle Harbour,N93,121,1793,my,30,1,q,r,,2,,,150,1,2,1
+y,653,Owen Swiney,Battle Harbour,N93,121,1793,my,31,1,q,r,,2,,,151,1,2,1
+y,654,Owen Swiney,Battle Harbour,N93,121,1793,jn,1,1,q,r,,2,3,,152,1,2.25,1
+y,655,Owen Swiney,Battle Harbour,N93,121,1793,jn,8,1,q,r,,2,3,,159,1,2.25,1
+y,656,Owen Swiney,Battle Harbour,N93,121,1793,jn,10,,,,,,,"""To paid M.r Miller 10/""",161,0,0,0
+y,657,Owen Swiney,Battle Harbour,N93,121,1793,jn,10,1,q,by,,1,9,,161,1,1.75,1
+b,658,Owen Swiney,Battle Harbour,N93,121,1793,jn,19,0.5,g,be,,1,6,,170,2,1.5,0.5
+b,659,Owen Swiney,Battle Harbour,N93,121,1793,jn,21,0.5,g,be,,1,6,,172,2,1.5,0.5
+b,660,Owen Swiney,Battle Harbour,N93,121,1793,jn,23,1,g,be,,3,,,174,4,3,1
+b,661,Owen Swiney,Battle Harbour,N93,121,1793,jn,25,0.5,g,be,,1,6,,176,2,1.5,0.5
+b,662,Owen Swiney,Battle Harbour,N93,121,1793,jn,27,0.5,g,be,,1,6,,178,2,1.5,0.5
+b,663,Owen Swiney,Battle Harbour,N93,121,1793,jn,28,0.5,g,be,,1,6,,179,2,1.5,0.5
+b,664,Owen Swiney,Battle Harbour,N93,121,1793,jl,2,0.5,g,be,,1,6,,183,2,1.5,0.5
+b,665,Owen Swiney,Battle Harbour,N93,121,1793,jl,6,0.5,g,be,,1,6,,187,2,1.5,0.5
+b,666,Owen Swiney,Battle Harbour,N93,121,1793,jl,10,0.5,g,be,,1,6,,191,2,1.5,0.5
+b,667,Owen Swiney,Battle Harbour,N93,121,1793,jl,13,1,g,be,,3,,,194,4,3,1
+b,668,Owen Swiney,Battle Harbour,N93,121,1793,jl,17,0.5,g,be,,1,6,,198,2,1.5,0.5
+b,669,Owen Swiney,Battle Harbour,N93,121,1793,jl,24,1,q,by,,1,9,,205,1,1.75,1
+b,670,Owen Swiney,Battle Harbour,N93,121,1793,jl,26,1,q,by,,1,9,,207,1,1.75,1
+b,671,Owen Swiney,Battle Harbour,N93,121,1793,jl,31,1,q,r,,2,3,,212,1,2.25,1
+b,672,Owen Swiney,Battle Harbour,N93,121,1793,au,2,1,q,r,,2,3,,214,1,2.25,1
+b,673,Owen Swiney,Battle Harbour,N93,121,1793,au,8,1,q,r,,2,3,,220,1,2.25,1
+b,674,Owen Swiney,Battle Harbour,N93,121,1793,au,15,1,q,r,,2,3,,227,1,2.25,1
+b,675,Owen Swiney,Battle Harbour,N93,121,1793,au,18,1,q,r,,2,3,,230,1,2.25,1
+b,676,Owen Swiney,Battle Harbour,N93,121,1793,au,20,0.5,g,be,,1,6,,232,2,1.5,0.5
+b,677,Owen Swiney,Battle Harbour,N93,121,1793,au,22,0.5,g,be,,1,6,,234,2,1.5,0.5
+b,678,Owen Swiney,Battle Harbour,N93,121,1793,au,24,0.5,g,be,,1,6,,236,2,1.5,0.5
+b,679,Owen Swiney,Battle Harbour,N93,121,1793,s,8,0.5,g,be,,1,6,,251,2,1.5,0.5
+b,680,Owen Swiney,Battle Harbour,N93,121,1793,s,9,1,g,be,,3,,,252,4,3,1
+b,681,Owen Swiney,Battle Harbour,N93,121,1793,s,10,1,q,by,,1,9,,253,1,1.75,1
+b,682,Owen Swiney,Battle Harbour,N93,121,1793,s,10,0.5,g,be,,1,6,,253,2,1.5,0.5
+b,683,Owen Swiney,Battle Harbour,N93,121,1793,s,12,1,q,by,,1,9,,255,1,1.75,1
+b,684,Owen Swiney,Battle Harbour,N93,121,1793,s,4,3.5,g,be,,10,6,,247,14,10.5,3.5
+b,685,Owen Swiney,Battle Harbour,N93,121,1793,s,5,0.5,g,be,,1,6,,248,2,1.5,0.5
+b,686,Owen Swiney,Battle Harbour,N93,121,1793,s,6,0.5,g,be,,1,6,,249,2,1.5,0.5
+b,687,Owen Swiney,Battle Harbour,N93,121,1793,s,7,1,g,be,,3,,,250,4,3,1
+b,688,Owen Swiney,Battle Harbour,N93,121,1793,s,20,1,q,r,,2,3,,263,1,2.25,1
+b,689,Owen Swiney,Battle Harbour,N93,121,1793,s,21,2,q,be,,1,6,,264,2,1.5,0.5
+b,690,Owen Swiney,Battle Harbour,N93,121,1793,o,5,2,q,be,,1,6,,278,2,1.5,0.5
+y,691,Patrick McDonald,Battle Harbour,N93,87,1792,,,,,,,,,"""[…] Fogo Ledger""",#N/A,0,0,0
+y,692,Patrick McDonald,Battle Harbour,N93,87,1792,jn,23,1,g,be,,3,,,174,4,3,1
+y,693,Patrick McDonald,Battle Harbour,N93,87,1792,jl,28,1,q,r,,2,3,,209,1,2.25,1
+y,694,Patrick McDonald,Battle Harbour,N93,87,1792,au,15,1,q,r,,2,3,,227,1,2.25,1
+y,695,Patrick McDonald,Battle Harbour,N93,87,1792,s,8,1,g,be,,3,,,251,4,3,1
+y,696,Patrick McDonald,Battle Harbour,N93,87,1792,s,20,2,q,r,,4,6,,263,2,4.5,2
+y,697,Patrick McDonald,Battle Harbour,N93,87,1792,s,27,1,q,r,,2,3,,270,1,2.25,1
+y,698,Patrick McDonald,Battle Harbour,N93,87,1792,s,28,1,q,r,,2,3,,271,1,2.25,1
+y,699,Patrick McDonald,Battle Harbour,N93,87,1792,o,3,1,q,r,,2,3,,276,1,2.25,1
+y,701,Patrick McDonald,Battle Harbour,N93,87,1792,,,,,,,,,"""Balance due to P. McDonald""",#N/A,0,0,0
+y,702,Patrick McDonald,Battle Harbour,N93,87,1792,,,,,,,,,"""By Acc.t Tho.s Dwyer""",#N/A,0,0,0
+y,703,Samuel Akerman,Battle Harbour,BH93,7,1793,,,,,,,,,"""[…] per Old Book""",#N/A,0,0,0
+y,704,Thomas Blandford,Battle Harbour,N93,84,1792,o,6,1,q,r,,2,,,279,1,2,1
+y,705,Thomas Blandford,Battle Harbour,N93,84,1792,o,21,2,q,by,,3,,,294,2,3,2
+y,706,Thomas Blandford,Battle Harbour,N93,84,1793,f,21,2,q,by,,3,,,52,2,3,2
+y,707,Thomas Blandford,Battle Harbour,N93,84,1793,jn,23,0.5,g,be,,1,6,,174,2,1.5,0.5
+y,708,Thomas Blandford,Battle Harbour,N93,84,1793,jn,24,1.5,g,be,,4,6,,175,6,4.5,1.5
+y,709,Thomas Blandford,Battle Harbour,N93,84,1793,jn,27,1.5,g,be,,4,6,,178,6,4.5,1.5
+y,710,Thomas Blandford,Battle Harbour,N93,84,1793,jn,29,0.5,g,be,,1,6,,180,2,1.5,0.5
+y,711,Thomas Blandford,Battle Harbour,N93,84,1793,jl,2,0.5,g,be,,1,6,,183,2,1.5,0.5
+y,711.1,Thomas Blandford,Battle Harbour,N93,84,1793,jl,7,0.5,g,be,,1,6,,188,2,1.5,0.5
+y,712,Thomas Blandford,Battle Harbour,N93,84,1793,jl,7,2,q,by,,3,6,,188,2,3.5,2
+y,712.1,Thomas Blandford,Battle Harbour,N93,84,1793,jl,7,0.5,g,be,,3,,,188,2,3,0.5
+y,713,Thomas Blandford,Battle Harbour,N93,84,1793,jl,25,1,g,be,,3,,,206,4,3,1
+y,714,Thomas Blandford,Battle Harbour,N93,84,1793,jl,26,1,q,r,,2,3,,207,1,2.25,1
+y,715,Thomas Blandford,Battle Harbour,N93,84,1793,jl,28,1,q,by,,1,9,,209,1,1.75,1
+y,716,Thomas Blandford,Battle Harbour,N93,84,1793,au,1,1,q,r,,2,3,,213,1,2.25,1
+y,717,Thomas Blandford,Battle Harbour,N93,84,1793,au,3,1,q,r,,2,3,,215,1,2.25,1
+y,718,Thomas Blandford,Battle Harbour,N93,84,1793,au,5,1,q,r,,2,3,,217,1,2.25,1
+y,719,Thomas Blandford,Battle Harbour,N93,84,1793,au,6,1,q,by,,1,9,,218,1,1.75,1
+y,720,Thomas Blandford,Battle Harbour,N93,84,1793,au,9,1,q,r,,2,3,,221,1,2.25,1
+y,721,Thomas Blandford,Battle Harbour,N93,84,1793,au,10,1,q,r,,2,3,,222,1,2.25,1
+y,722,Thomas Blandford,Battle Harbour,N93,84,1793,au,15,1,q,r,,2,3,,227,1,2.25,1
+y,723,Thomas Blandford,Battle Harbour,N93,84,1793,au,16,1,q,by,,1,9,,228,1,1.75,1
+y,724,Thomas Blandford,Battle Harbour,N93,84,1793,au,17,1,q,r,,2,3,,229,1,2.25,1
+y,725,Thomas Blandford,Battle Harbour,N93,84,1793,au,19,1,q,r,,2,3,,231,1,2.25,1
+y,726,Thomas Blandford,Battle Harbour,N93,84,1793,au,21,1,q,by,,1,9,,233,1,1.75,1
+y,727,Thomas Blandford,Battle Harbour,N93,84,1793,au,22,1,q,by,,1,9,,234,1,1.75,1
+y,728,Thomas Blandford,Battle Harbour,N93,84,1793,au,23,1,g,be,,3,,,235,4,3,1
+y,729,Thomas Blandford,Battle Harbour,N93,84,1793,au,27,1,g,be,,3,,,239,4,3,1
+y,730,Thomas Blandford,Battle Harbour,N93,84,1793,au,29,1,g,by,,1,9,,241,4,1.75,4
+y,731,Thomas Blandford,Battle Harbour,N93,84,1793,au,31,0.5,g,be,,1,6,,243,2,1.5,0.5
+y,732,Thomas Blandford,Battle Harbour,N93,84,1793,s,2,0.5,g,be,,1,6,,245,2,1.5,0.5
+y,733,Thomas Blandford,Battle Harbour,N93,84,1793,s,2,1,q,by,,1,9,,245,1,1.75,1
+y,734,Thomas Blandford,Battle Harbour,N93,84,1793,s,7,1,g,be,,3,,,250,4,3,1
+y,735,Thomas Blandford,Battle Harbour,N93,84,1793,s,22,1,q,r,,2,3,,265,1,2.25,1
+y,735.1,Thomas Blandford,Battle Harbour,N93,84,1793,,,,,,,,,"""Ballance to be paid to Mr John Raindle XtChurch""",#N/A,0,0,0
+y,736,William  Blake,Battle Harbour,BH93,3,1792,,,,,,,,,"""[…] Fogo Ledger""",#N/A,0,0,0
+y,774,William  Blake,Battle Harbour,BH93,3,1792,,,,,,,,,"[To a/c Jonathan Stoodley""",#N/A,0,0,0
+y,775,William  Blake,Battle Harbour,BH93,3,1792,jl,5,,,be,,,6,"""To undercharged on 1/2 Gal Beer Jul 5 …. /6",186,0,0.5,0
+y,776,William  Blake,Battle Harbour,N93,97,1792,s,26,2.5,g,cy,,7,6,,269,10,7.5,2.5
+y,777,William  Blake,Battle Harbour,N93,97,1792,s,28,1,g,cy,,3,,,271,4,3,1
+y,778,William  Blake,Battle Harbour,N93,97,1792,s,29,1,q,by,,1,6,,272,1,1.5,1
+y,779,William  Blake,Battle Harbour,N93,97,1792,s,29,1,g,cy,,3,,,272,4,3,1
+y,780,William  Blake,Battle Harbour,N93,97,1792,o,2,2,q,by,,3,,,275,2,3,2
+y,781,William  Blake,Battle Harbour,N93,97,1792,o,4,1,q,by,,1,6,,277,1,1.5,1
+y,782,William  Blake,Battle Harbour,N93,97,1792,o,11,1,q,by,,1,6,,284,1,1.5,1
+y,783,William  Blake,Battle Harbour,N93,97,1792,o,27,1,q,by,,1,6,,300,1,1.5,1
+y,784,William  Blake,Battle Harbour,N93,97,1792,d,25,1,g,by,,6,,,359,4,6,4
+y,785,William  Blake,Battle Harbour,N93,97,1792,d,30,2,q,by,,3,,,364,2,3,2
+y,786,William  Blake,Battle Harbour,N93,97,1793,ja,3,2,q,by,,3,,,3,2,3,2
+y,787,William  Blake,Battle Harbour,N93,97,1793,ja,5,2,q,by,,3,,,5,2,3,2
+y,788,William  Blake,Battle Harbour,N93,97,1793,ja,6,2,q,by,,3,,,6,2,3,2
+y,789,William  Blake,Battle Harbour,N93,97,1793,ja,8,2,q,by,,3,,,8,2,3,2
+y,790,William  Blake,Battle Harbour,N93,97,1793,ja,11,2,q,by,,3,,,11,2,3,2
+y,791,William  Blake,Battle Harbour,N93,97,1793,ja,12,1.5,g,by,,9,,,12,6,9,6
+y,792,William  Blake,Battle Harbour,N93,97,1793,ja,13,2,q,by,,3,,,13,2,3,2
+y,793,William  Blake,Battle Harbour,N93,97,1793,ja,14,1,q,by,,1,6,,14,1,1.5,1
+y,794,William  Blake,Battle Harbour,N93,97,1793,ja,15,2,q,by,,3,,,15,2,3,2
+y,795,William  Blake,Battle Harbour,N93,97,1793,ja,18,2,q,by,,3,,,18,2,3,2
+y,796,William  Blake,Battle Harbour,N93,97,1793,f,17,2,q,by,,3,,,48,2,3,2
+y,797,William  Blake,Battle Harbour,N93,97,1793,f,24,1,g,by,,6,,,55,4,6,4
+y,798,William  Blake,Battle Harbour,N93,97,1793,f,28,2,q,by,,3,,,59,2,3,2
+y,799,William  Blake,Battle Harbour,N93,97,1793,mr,1,1,q,by,,1,6,,60,1,1.5,1
+y,800,William  Blake,Battle Harbour,N93,97,1793,mr,10,2,q,by,,3,,,69,2,3,2
+y,801,William  Blake,Battle Harbour,N93,97,1793,mr,12,2,q,by,,3,,,71,2,3,2
+b,802,William  Blake,Battle Harbour,N93,97,1793,jn,24,1.5,g,be,,4,6,,175,6,4.5,1.5
+b,803,William  Blake,Battle Harbour,N93,97,1793,jn,26,0.5,g,be,,1,6,,177,2,1.5,0.5
+b,804,William  Blake,Battle Harbour,N93,97,1793,jn,27,0.5,g,be,,1,6,,178,2,1.5,0.5
+b,805,William  Blake,Battle Harbour,N93,97,1793,jl,5,0.5,g,be,,1,6,,186,2,1.5,0.5
+b,806,William  Blake,Battle Harbour,N93,97,1793,jl,6,1,g,be,,3,,,187,4,3,1
+b,807,William  Blake,Battle Harbour,N93,97,1793,jl,7,1,g,be,,3,,,188,4,3,1
+b,808,William  Blake,Battle Harbour,N93,97,1793,jl,20,1,q,by,,1,9,,201,1,1.75,1
+b,809,William  Blake,Battle Harbour,N93,97,1793,jl,21,1,q,by,,1,9,,202,1,1.75,1
+b,810,William  Blake,Battle Harbour,N93,97,1793,jl,24,2,q,by,,3,6,,205,2,3.5,2
+b,811,William  Blake,Battle Harbour,N93,97,1793,jl,25,2.5,g,be,,7,6,,206,10,7.5,2.5
+b,812,William  Blake,Battle Harbour,N93,97,1793,jl,25,1,q,by,,1,9,,206,1,1.75,1
+y,813,William  Blake,Battle Harbour,N93,97,1793,jl,29,1,q,r,,2,3,,210,1,2.25,1
+b,814,William  Blake,Battle Harbour,N93,97,1793,au,2,1,q,by,,1,9,,214,1,1.75,1
+y,815,William  Blake,Battle Harbour,N93,97,1793,au,4,1,q,by,,1,9,,216,1,1.75,1
+b,816,William  Blake,Battle Harbour,N93,97,1793,au,4,1,q,r,,2,3,,216,1,2.25,1
+b,817,William  Blake,Battle Harbour,N93,97,1793,au,9,1,q,by,,1,9,,221,1,1.75,1
+b,818,William  Blake,Battle Harbour,N93,97,1793,au,11,2,q,r,,4,6,,223,2,4.5,2
+b,819,William  Blake,Battle Harbour,N93,97,1793,au,15,1,q,r,,2,3,,227,1,2.25,1
+b,820,William  Blake,Battle Harbour,N93,97,1793,au,17,1,q,r,,2,3,,229,1,2.25,1
+b,821,William  Blake,Battle Harbour,N93,97,1793,au,18,0.5,g,be,,1,6,,230,2,1.5,0.5
+b,822,William  Blake,Battle Harbour,N93,97,1793,au,21,2,g,be,,6,,,233,8,6,2
+b,823,William  Blake,Battle Harbour,N93,97,1793,au,23,1,q,by,,1,9,,235,1,1.75,1
+b,824,William  Blake,Battle Harbour,N93,97,1793,au,23,0.5,g,be,,1,6,,235,2,1.5,0.5
+b,825,William  Blake,Battle Harbour,N93,97,1793,au,25,0.5,g,be,,1,6,,237,2,1.5,0.5
+b,826,William  Blake,Battle Harbour,N93,97,1793,s,1,1,q,by,,1,9,,244,1,1.75,1
+b,827,William  Blake,Battle Harbour,N93,97,1793,s,1,0.5,g,be,,1,6,,244,2,1.5,0.5
+b,828,William  Blake,Battle Harbour,N93,177,1793,s,8,2.25,g,be,,6,9,,251,9,6.75,2.25
+b,829,William  Blake,Battle Harbour,N93,177,1793,s,9,0.5,g,be,,1,6,,252,2,1.5,0.5
+b,830,William  Blake,Battle Harbour,N93,177,1793,s,10,1,g,be,,3,,,253,4,3,1
+b,831,William  Blake,Battle Harbour,N93,177,1793,s,11,1,g,be,,3,,,254,4,3,1
+b,832,William  Blake,Battle Harbour,N93,177,1793,s,12,1,q,by,,1,9,,255,1,1.75,1
+b,833,William  Blake,Battle Harbour,N93,177,1793,s,4,0.5,g,be,,1,6,,247,2,1.5,0.5
+b,834,William  Blake,Battle Harbour,N93,177,1793,s,19,1,q,r,,2,3,,262,1,2.25,1
+b,835,William  Blake,Battle Harbour,N93,177,1793,s,20,1,q,r,,2,3,,263,1,2.25,1
+b,836,William  Blake,Battle Harbour,N93,177,1793,s,21,2,g,be,,6,,,264,8,6,2
+b,837,William  Blake,Battle Harbour,N93,177,1793,s,24,1,q,r,,2,3,,267,1,2.25,1
+b,838,William  Blake,Battle Harbour,N93,177,1793,s,24,2,q,be,,1,6,,267,2,1.5,0.5
+y,839,William  Blake,Battle Harbour,N93,177,1793,o,8,,,,,,,"""To Acco.t Jonathan Stoodly""",281,0,0,0
+y,840,William Bugden,Battle Harbour,BH93,13,1793,,,,,,,,,"""[…] per old Book""",#N/A,0,0,0
+y,842,William Bugden,Battle Harbour,N93,35,1792,,,,,,,,,"[Clothing, hardware, and bills only.]",#N/A,0,0,0
+y,843,Henry Damond,Battle Harbour,BH93,27,1793,,,,,,,,,[Clothing and hardware only.],#N/A,0,0,0
+y,844,Henry Damond,Battle Harbour,N93,152,1793,,,,,,,,,"[Clothing, hardware, and bills only.]",#N/A,0,0,0
+y,845,Henry Damond,Battle Harbour,N94,74,1794,,,,,,,,,"[Clothing, hardware, and bills only.]",#N/A,0,0,0
+y,846,John Galley,Battle Harbour,N94,119,1793,o,10,2,q,r,,4,6,,283,2,4.5,2
+y,847,John Galley,Battle Harbour,N94,119,1794,o,19,1,q,r,,2,3,,292,1,2.25,1
+y,848,John Galley,Battle Harbour,N94,119,1794,n,11,1,q,by,,1,9,,315,1,1.75,1
+y,849,John Galley,Battle Harbour,N94,119,1794,n,14,1,q,by,,1,9,,318,1,1.75,1
+y,850,John Galley,Battle Harbour,N94,119,1794,n,21,1,q,by,,1,9,,325,1,1.75,1
+y,851,John Galley,Battle Harbour,N94,119,1794,n,29,1,q,by,,1,9,,333,1,1.75,1
+y,852,John Galley,Battle Harbour,N94,119,1794,d,17,1,q,r,,2,3,,351,1,2.25,1
+y,853,John Galley,Battle Harbour,N94,119,1794,d,24,1,q,r,,2,3,,358,1,2.25,1
+y,854,John Galley,Battle Harbour,N94,119,1794,d,25,2,q,r,,4,6,,359,2,4.5,2
+y,855,John Galley,Battle Harbour,N94,119,1794,d,30,1,q,r,,2,3,,364,1,2.25,1
+y,856,John Galley,Battle Harbour,N94,119,1794,ja,2,4,q,r,,9,,,2,4,9,4
+y,857,John Galley,Battle Harbour,N94,119,1794,ja,6,1,q,by,,1,9,,6,1,1.75,1
+y,858,John Galley,Battle Harbour,N94,119,1794,jl,3,1,q,r,,2,3,,184,1,2.25,1
+y,859,John Galley,Battle Harbour,N94,119,1794,jl,9,2,q,be,,1,6,,190,2,1.5,0.5
+y,860,John Galley,Battle Harbour,N94,119,1794,jl,12,2,q,be,,1,6,,193,2,1.5,0.5
+y,861,John Galley,Battle Harbour,N94,119,1794,jl,18,1,q,r,,2,3,,199,1,2.25,1
+y,862,John Galley,Battle Harbour,N94,119,1794,jl,23,1,q,r,,2,3,,204,1,2.25,1
+y,863,John Galley,Battle Harbour,N94,119,1794,au,9,1,q,r,,2,3,,221,1,2.25,1
+y,864,John Galley,Battle Harbour,N94,119,1794,au,25,1,q,r,,2,3,,237,1,2.25,1
+y,865,John Galley,Battle Harbour,N94,119,1794,s,7,1,q,r,,2,3,,250,1,2.25,1
+y,866,John Galley,Battle Harbour,N94,119,1794,s,18,2,q,r,,4,6,,261,2,4.5,2
+y,867,John Galley,Battle Harbour,N94,119,1794,s,22,1,q,r,,2,3,,265,1,2.25,1
+y,868,John Galley,Battle Harbour,N94,119,1794,o,6,1,q,r,,2,3,,279,1,2.25,1
+y,869,John Galley,Battle Harbour,N94,119,1794,o,7,1,q,r,,2,3,,280,1,2.25,1
+y,870,John Galley,Battle Harbour,N94,119,1794,,,,,,,,,"""To Balance Mr. Jos. Bird Sturminster""",#N/A,0,0,0
+,870.01,Nicholas French,Battle Harbour,N93,172,1792,,,,,,,,,"""To 1/6 part of the last Windters provisions with J. Slade & Co.""",#N/A,0,0,0
+,870.02,Nicholas French,Battle Harbour,N93,172,1792,,,,,,,,,"""To your Dish [?] the Summer""",#N/A,0,0,0
+,870.03,Nicholas French,Battle Harbour,N93,172,1792,,,,,,,,,"""Ballance due to N. French""",#N/A,0,0,0
+y,870.1,Nicholas French,Battle Harbour,BH93,10,1792,,,,,,,,,"""Sent from Fogo""",#N/A,0,0,0
+,871,Nicholas French,Battle Harbour,N93,101,1792,o,4,1,q,by,,1,,,277,1,1,1
+,872,Nicholas French,Battle Harbour,N93,101,1792,o,5,1,q,by,,1,,,278,1,1,1
+,873,Nicholas French,Battle Harbour,N93,101,1792,o,18,1,q,by,,1,,,291,1,1,1
+,874,Nicholas French,Battle Harbour,N93,101,1792,o,28,1,q,by,,1,,,301,1,1,1
+,875,Nicholas French,Battle Harbour,N93,101,1792,d,25,2,q,by,,2,,,359,2,2,2
+,876,Nicholas French,Battle Harbour,N93,101,1792,d,30,2,q,by,,2,,,364,2,2,2
+,877,Nicholas French,Battle Harbour,N93,101,1793,ja,11,2,q,by,,2,,,11,2,2,2
+,878,Nicholas French,Battle Harbour,N93,101,1793,ja,18,2,q,by,,2,,,18,2,2,2
+,879,Nicholas French,Battle Harbour,N93,101,1793,ja,29,1,q,by,,1,,,29,1,1,1
+,880,Nicholas French,Battle Harbour,N93,101,1793,f,17,1,q,by,,1,,,48,1,1,1
+,881,Nicholas French,Battle Harbour,N93,101,1793,f,18,1,q,by,,1,,,49,1,1,1
+,882,Nicholas French,Battle Harbour,N93,101,1793,mr,1,1,q,by,,1,,,60,1,1,1
+,883,Nicholas French,Battle Harbour,N93,101,1793,mr,12,2,q,by,,2,,,71,2,2,2
+,884,Nicholas French,Battle Harbour,N93,101,1793,my,14,1,q,by,,1,6,,134,1,1.5,1
+,885,Nicholas French,Battle Harbour,N93,101,1793,my,18,2,q,by,,3,,,138,2,3,2
+,886,Nicholas French,Battle Harbour,N93,101,1793,my,19,1,q,by,,1,6,,139,1,1.5,1
+,887,Nicholas French,Battle Harbour,N93,101,1793,my,26,1,q,by,,1,6,,146,1,1.5,1
+,888,Nicholas French,Battle Harbour,N93,101,1793,au,10,1,q,r,,1,9,,222,1,1.75,1
+,889,Nicholas French,Battle Harbour,N93,101,1793,au,12,2,q,r,,3,6,,224,2,3.5,2
+,890,Nicholas French,Battle Harbour,N93,101,1793,au,20,0.5,g,be,,1,3,,232,2,1.25,0.5
+,891,Nicholas French,Battle Harbour,N93,101,1793,au,25,1,g,be,,2,6,,237,4,2.5,1
+,892,Nicholas French,Battle Harbour,N93,172,1793,s,6,1,q,by,,1,3,,249,1,1.25,1
+,893,Nicholas French,Battle Harbour,N93,172,1793,s,9,1,g,be,,2,6,,252,4,2.5,1
+,894,Nicholas French,Battle Harbour,N93,172,1793,s,18,1,q,r,,1,6,,261,1,1.5,1
+,895,Nicholas French,Battle Harbour,N93,172,1793,s,28,1,q,r,,1,6,,271,1,1.5,1
+y,896,William Foss,Battle Harbour,BH93,31,1793,,,,,,,,,"""[…] Fogo Ledger""",#N/A,0,0,0
+y,897,William Foss,Battle Harbour,BH93,31,1793,,,,,,,,,[Clothing and hardware only],#N/A,0,0,0
+y,898,Alexander Hutchings,Battle Harbour,N94,161,1794,s,15,,,,,,,"""To allow'd Jn.o King /4/",258,0,0,0
+y,899,Alexander Hutchings,Battle Harbour,N94,161,1794,o,23,2.5,g,r,,15,,,296,10,15,10
+y,900,Daniel Jacob,Battle Harbour,N94,28,1793,d,1,2,q,by,,3,6,,335,2,3.5,2
+y,901,Daniel Jacob,Battle Harbour,N94,28,1794,ja,8,1,q,by,,1,9,,8,1,1.75,1
+y,902,Daniel Jacob,Battle Harbour,N94,28,1794,o,9,,,,,,,"""Balance due to Dan.l Jacob""",282,0,0,0
+y,903,Frederick Churchil,Battle Harbour,N94,71,1793,s,8,1,g,be,,3,,,251,4,3,1
+y,904,Frederick Churchil,Battle Harbour,N94,71,1793,o,16,1,q,r,,2,3,,289,1,2.25,1
+y,905,Frederick Churchil,Battle Harbour,N94,71,1793,n,12,1,q,by,,1,9,,316,1,1.75,1
+y,906,Frederick Churchil,Battle Harbour,N94,71,1793,n,16,1,q,by,,1,9,,320,1,1.75,1
+y,907,Frederick Churchil,Battle Harbour,N94,71,1793,n,20,1,q,by,,1,9,,324,1,1.75,1
+y,908,Frederick Churchil,Battle Harbour,N94,71,1793,n,28,1,q,by,,1,9,,332,1,1.75,1
+y,909,Frederick Churchil,Battle Harbour,N94,71,1793,d,16,1,q,r,,2,3,,350,1,2.25,1
+y,910,Frederick Churchil,Battle Harbour,N94,71,1793,d,22,1,q,r,,2,3,,356,1,2.25,1
+y,911,Frederick Churchil,Battle Harbour,N94,71,1793,d,23,1,q,r,,2,3,,357,1,2.25,1
+y,912,Frederick Churchil,Battle Harbour,N94,71,1793,d,26,1,q,r,,2,3,,360,1,2.25,1
+y,913,Frederick Churchil,Battle Harbour,N94,71,1793,d,27,1,q,r,,2,3,,361,1,2.25,1
+y,914,Frederick Churchil,Battle Harbour,N94,71,1794,ja,2,1,q,r,,2,3,,2,1,2.25,1
+y,915,Frederick Churchil,Battle Harbour,N94,71,1794,ja,3,1,q,r,,2,3,,3,1,2.25,1
+y,916,Frederick Churchil,Battle Harbour,N94,71,1794,ja,4,1,q,r,,2,3,,4,1,2.25,1
+y,917,Frederick Churchil,Battle Harbour,N94,71,1794,jn,16,1,q,r,,2,3,,167,1,2.25,1
+y,918,Frederick Churchil,Battle Harbour,N94,71,1794,jl,6,1,q,r,,2,3,,187,1,2.25,1
+y,919,Frederick Churchil,Battle Harbour,N94,71,1794,jl,12,2,q,be,,1,6,,193,2,1.5,0.5
+y,920,Frederick Churchil,Battle Harbour,N94,71,1794,jl,24,1,q,r,,2,3,,205,1,2.25,1
+y,921,Frederick Churchil,Battle Harbour,N94,71,1794,au,7,1,q,r,,2,3,,219,1,2.25,1
+y,922,Frederick Churchil,Battle Harbour,N94,71,1794,au,25,1,q,r,,2,3,,237,1,2.25,1
+y,923,Frederick Churchil,Battle Harbour,N94,71,1794,s,9,1,q,r,,2,3,,252,1,2.25,1
+y,924,Frederick Churchil,Battle Harbour,N94,71,1794,s,13,1,q,r,,2,3,,256,1,2.25,1
+y,925,Frederick Churchil,Battle Harbour,N94,71,1794,o,2,1,q,r,,2,3,,275,1,2.25,1
+y,926,Frederick Churchil,Battle Harbour,N94,71,1794,o,15,,,,,,,"""To a Sett of Ex. On J. Slade & Co.""",288,0,0,0
+y,927,Frederick Churchil,Battle Harbour,N94,71,1794,,,,,,,,,"""To Sundrys to balance""",#N/A,0,0,0
+y,928,Frederick Churchil,Battle Harbour,N94,164,1794,o,24,,,,,,,"""To your passage to England P William""",297,0,0,0
+y,929,Frederick Churchil,Battle Harbour,N94,164,1794,o,24,,,,,,,"""To Moses Cheaters P on B. Lester Es.r fav.r wm. Keefe""",297,0,0,0
+y,930,Frederick Churchil,Battle Harbour,N94,164,1794,o,24,,,,,,,"""To Cash""",297,0,0,0
+y,931,Frederick Churchil,Battle Harbour,N94,164,1794,o,24,,,,,,,"""By T. Slade Oft. On J. Slade & Co. return'd""",297,0,0,0
+y,932,Gustavus Hoddinott,Battle Harbour,N94,33,1793,o,,,,,,,,"""[…] per old Book""",273,0,0,0
+y,933,Gustavus Hoddinott,Battle Harbour,N94,33,1794,n,19,1,q,by,,1,9,,323,1,1.75,1
+y,934,Gustavus Hoddinott,Battle Harbour,N94,33,1794,n,25,1,q,by,,1,9,,329,1,1.75,1
+y,935,Gustavus Hoddinott,Battle Harbour,N94,33,1794,d,22,1,q,r,,2,3,,356,1,2.25,1
+y,936,Gustavus Hoddinott,Battle Harbour,N94,33,1794,jl,18,1,q,r,,2,3,,199,1,2.25,1
+y,937,Gustavus Hoddinott,Battle Harbour,N94,33,1794,,,,,,,,,"""To allow'd Jn.o King""",#N/A,0,0,0
+y,938,Gustavus Hoddinott,Battle Harbour,N94,33,1794,,,,,,,,,"""To Balance Mr. Jos. Bird Sturminster""",#N/A,0,0,0
+y,939,Gustavus Hoddinott,Battle Harbour,N94,33,1794,,,,,,,,,"""By Acco.t W.m Blake""",#N/A,0,0,0
+y,940,James Corridon,Battle Harbour,N94,121,1793,n,14,1,q,by,,1,9,,318,1,1.75,1
+y,941,James Corridon,Battle Harbour,N94,121,1793,n,18,1,q,by,,1,9,,322,1,1.75,1
+y,942,James Corridon,Battle Harbour,N94,121,1793,n,25,1,q,by,,1,9,,329,1,1.75,1
+y,943,James Corridon,Battle Harbour,N94,121,1793,d,16,1,q,r,,2,3,,350,1,2.25,1
+y,944,James Corridon,Battle Harbour,N94,121,1793,d,23,2,q,r,,4,6,,357,2,4.5,2
+y,945,James Corridon,Battle Harbour,N94,121,1794,ja,3,1,q,r,,2,3,,3,1,2.25,1
+y,946,James Corridon,Battle Harbour,N94,121,1794,ja,7,1,q,by,,1,9,,7,1,1.75,1
+y,947,James Corridon,Battle Harbour,N94,121,1794,jn,25,2,q,r,,4,6,,176,2,4.5,2
+y,948,James Corridon,Battle Harbour,N94,121,1794,s,15,,,,,,,"""Allow'd King""",258,0,0,0
+y,949,James Corridon,Battle Harbour,N94,121,1794,o,6,2,q,r,,2,6,,279,2,2.5,2
+y,950,James Corridon,Battle Harbour,N94,121,1794,o,6,,,,,,,"""To Amo.t of Sundrys brot from Roger Mc. Graths last Acco.t",279,0,0,0
+y,951,James Corridon,Battle Harbour,N94,121,1794,o,15,,,,,,,"""To a Sett of Exchange on J. Slade & Co.""",288,0,0,0
+y,952,James Corridon,Battle Harbour,N94,121,1794,,,,,,,,,"""To Sundrys to balance""",#N/A,0,0,0
+y,953,James Corridon,Battle Harbour,N94,121,1794,,,,,,,,,"""By 1/2 the Fish bro.t from Roger McGRaths Acco.t last yEar""",#N/A,0,0,0
+y,954,James Corridon,Battle Harbour,N94,121,1794,,,,,,,,,"""By overcharge on last Summers Diet, charg'd in McGrathss Acco.t""",#N/A,0,0,0
+y,955,John Hain,Battle Harbour,N94,122,1793,o,11,1,q,r,,2,3,"""To Balance Mr. Jos. Bird Sturminster""",284,1,2.25,1
+y,956,John Hain,Battle Harbour,N94,122,1793,n,14,1,q,by,,1,9,,318,1,1.75,1
+y,957,John Hain,Battle Harbour,N94,122,1793,d,1,2,q,by,,3,6,,335,2,3.5,2
+y,958,John Hain,Battle Harbour,N94,122,1793,d,23,2,q,r,,4,6,,357,2,4.5,2
+y,959,John Hain,Battle Harbour,N94,122,1794,ja,5,1,q,by,,1,9,,5,1,1.75,1
+y,960,John Hain,Battle Harbour,N94,122,1794,ja,6,1,q,by,,1,9,,6,1,1.75,1
+y,961,John Hain,Battle Harbour,N94,122,1794,ja,8,1,q,by,,1,9,,8,1,1.75,1
+y,962,John Hain,Battle Harbour,N94,122,1794,ap,17,1,q,by,,1,9,,107,1,1.75,1
+y,963,John Hain,Battle Harbour,N94,122,1794,jl,7,2,q,be,,1,6,,188,2,1.5,0.5
+y,964,John Hain,Battle Harbour,N94,122,1794,jl,11,2,q,r,,4,6,,192,2,4.5,2
+y,965,John Hain,Battle Harbour,N94,122,1794,jl,20,1,q,r,,2,3,,201,1,2.25,1
+y,966,John Hain,Battle Harbour,N94,122,1794,jl,27,1,q,r,,2,3,,208,1,2.25,1
+y,967,John Hain,Battle Harbour,N94,122,1794,au,2,1,q,r,,2,3,,214,1,2.25,1
+y,968,John Hain,Battle Harbour,N94,122,1794,au,17,1,q,r,,2,3,,229,1,2.25,1
+y,969,John Hain,Battle Harbour,N94,122,1794,s,5,1,g,be,,3,,,248,4,3,1
+y,970,John Hain,Battle Harbour,N94,122,1794,s,6,2,q,be,,1,6,,249,2,1.5,0.5
+y,971,John Hain,Battle Harbour,N94,122,1794,s,15,,,,,,,"""Allow'd J. King 5/""",258,0,0,0
+y,972,John Hain,Battle Harbour,N94,122,1794,s,18,2,q,be,,1,6,,261,2,1.5,0.5
+y,972.1,John Hain,Battle Harbour,N94,122,1794,s,18,,,,,,,"""To Balance Mr. Jos. Bird Sturminster""",261,0,0,0
+y,973,John Harris,Battle Harbour,N94,39,1794,,,,,,,,,"[Clothing, hardware, and bills only]",#N/A,0,0,0
+y,974,John Rose,Battle Harbour,N94,68,1793,o,3,,,,,,,"""[…] per old Book""",276,0,0,0
+y,975,John Rose,Battle Harbour,N94,68,1793,o,6,5,q,r,,11,3,,279,5,11.25,5
+y,976,John Rose,Battle Harbour,N94,68,1793,o,19,1,q,r,,2,3,,292,1,2.25,1
+y,977,John Rose,Battle Harbour,N94,68,1793,o,27,1,q,r,,2,3,,300,1,2.25,1
+y,978,John Rose,Battle Harbour,N94,68,1793,n,5,1,q,r,,2,3,,309,1,2.25,1
+y,979,John Rose,Battle Harbour,N94,68,1793,n,10,1,q,by,,1,9,,314,1,1.75,1
+y,980,John Rose,Battle Harbour,N94,68,1793,n,20,1,q,by,,1,9,,324,1,1.75,1
+y,981,John Rose,Battle Harbour,N94,68,1793,n,23,1,q,by,,1,9,,327,1,1.75,1
+y,982,John Rose,Battle Harbour,N94,68,1793,n,25,1,q,by,,1,9,,329,1,1.75,1
+y,983,John Rose,Battle Harbour,N94,68,1793,d,16,1,q,r,,2,3,,350,1,2.25,1
+y,984,John Rose,Battle Harbour,N94,68,1793,d,20,1,q,r,,2,3,,354,1,2.25,1
+y,985,John Rose,Battle Harbour,N94,68,1793,d,25,2,q,r,,4,6,,359,2,4.5,2
+y,986,John Rose,Battle Harbour,N94,68,1794,ja,1,2,q,r,,4,6,,1,2,4.5,2
+y,987,John Rose,Battle Harbour,N94,68,1794,ja,2,1,q,r,,2,3,,2,1,2.25,1
+y,988,John Rose,Battle Harbour,N94,68,1794,ja,3,1,q,r,,2,3,,3,1,2.25,1
+y,989,John Rose,Battle Harbour,N94,68,1794,ja,7,1,q,by,,1,9,,7,1,1.75,1
+y,990,John Rose,Battle Harbour,N94,68,1794,jn,29,1,q,r,,2,3,,180,1,2.25,1
+y,991,John Rose,Battle Harbour,N94,68,1794,jl,24,2,q,be,,1,6,,205,2,1.5,0.5
+y,992,John Rose,Battle Harbour,N94,68,1794,au,2,2,q,be,,1,6,,214,2,1.5,0.5
+y,993,John Rose,Battle Harbour,N94,68,1794,au,23,1,q,r,,2,3,,235,1,2.25,1
+y,994,John Rose,Battle Harbour,N94,68,1794,s,4,1,q,r,,2,3,,247,1,2.25,1
+y,995,John Rose,Battle Harbour,N94,162,1794,s,10,2,q,be,,1,6,,253,2,1.5,0.5
+y,996,John Rose,Battle Harbour,N94,162,1794,s,11,1,q,r,,2,3,,254,1,2.25,1
+y,997,John Rose,Battle Harbour,N94,162,1794,s,15,1,q,r,,2,3,,258,1,2.25,1
+y,998,John Rose,Battle Harbour,N94,162,1794,,,,,,,,,"""To allow'd Jn.o King""",#N/A,0,0,0
+y,999,John Rose,Battle Harbour,N94,162,1794,o,2,2,q,be,,1,6,,275,2,1.5,0.5
+y,1000,John Rose,Battle Harbour,N94,162,1794,o,3,1,q,r,,2,3,,276,1,2.25,1
+y,1001,John Rose,Battle Harbour,N94,162,1794,o,6,1,q,r,,2,3,,279,1,2.25,1
+y,1002,John Rose,Battle Harbour,N94,162,1794,o,7,1,q,r,,2,3,,280,1,2.25,1
+y,1002,John Rose,Battle Harbour,N94,162,1794,,,,,,,,,"""To Balance Mr. Tho.s Roach Londingbridge""",#N/A,0,0,0
+y,1003,John Rumbold,Battle Harbour,N94,121,1793,o,8,1,q,r,,2,3,,281,1,2.25,1
+y,1004,John Rumbold,Battle Harbour,N94,121,1793,o,19,1,q,r,,2,3,,292,1,2.25,1
+y,1005,John Rumbold,Battle Harbour,N94,121,1793,n,10,1,q,by,,1,9,,314,1,1.75,1
+y,1005.1,John Rumbold,Battle Harbour,N94,121,1793,n,13,1,q,by,,1,9,,317,1,1.75,1
+y,1006,John Rumbold,Battle Harbour,N94,121,1793,n,14,1,q,by,,1,9,,318,1,1.75,1
+y,1007,John Rumbold,Battle Harbour,N94,121,1793,d,1,2,q,by,,3,6,,335,2,3.5,2
+y,1008,John Rumbold,Battle Harbour,N94,121,1793,d,23,3,q,r,,6,9,,357,3,6.75,3
+y,1009,John Rumbold,Battle Harbour,N94,121,1794,ja,4,2,q,by,,3,6,,4,2,3.5,2
+y,1010,John Rumbold,Battle Harbour,N94,121,1794,ja,7,1,q,by,,1,9,,7,1,1.75,1
+y,1011,John Rumbold,Battle Harbour,N94,121,1794,ja,8,1,q,by,,1,9,,8,1,1.75,1
+y,1012,John Rumbold,Battle Harbour,N94,121,1794,jn,12,2,q,r,,4,6,,163,2,4.5,2
+y,1013,John Rumbold,Battle Harbour,N94,121,1794,au,18,1,q,r,,2,3,,230,1,2.25,1
+y,1014,John Rumbold,Battle Harbour,N94,121,1794,au,22,1,q,r,,2,3,,234,1,2.25,1
+y,1015,John Rumbold,Battle Harbour,N94,121,1794,au,25,2,q,be,,1,6,,237,2,1.5,0.5
+y,1016,John Rumbold,Battle Harbour,N94,121,1794,au,29,2,q,r,,4,6,,241,2,4.5,2
+y,1017,John Rumbold,Battle Harbour,N94,121,1794,s,8,1,q,r,,2,3,,251,1,2.25,1
+y,1018,John Rumbold,Battle Harbour,N94,121,1794,s,10,1,q,r,,2,3,,253,1,2.25,1
+y,1019,John Rumbold,Battle Harbour,N94,121,1794,s,14,2,q,r,,4,6,,257,2,4.5,2
+y,1020,John Rumbold,Battle Harbour,N94,121,1794,s,22,1,q,r,,2,3,,265,1,2.25,1
+y,1021,John Rumbold,Battle Harbour,N94,121,1794,s,28,1,q,r,,2,3,,271,1,2.25,1
+y,1021.1,John Rumbold,Battle Harbour,N94,121,1794,,,,,,,,,"""To Balance to be paid Mr. John Aldridge X Church""",#N/A,0,0,0
+y,1022,John Tewskbury,Battle Harbour,N94,122,1793,o,9,1,q,r,,2,3,,282,1,2.25,1
+y,1023,John Tewskbury,Battle Harbour,N94,122,1793,o,19,1,q,r,,2,3,,292,1,2.25,1
+y,1024,John Tewskbury,Battle Harbour,N94,122,1793,o,28,1,q,r,,2,3,,301,1,2.25,1
+y,1025,John Tewskbury,Battle Harbour,N94,122,1793,n,22,1,q,by,,1,9,,326,1,1.75,1
+y,1026,John Tewskbury,Battle Harbour,N94,122,1793,d,22,1,q,r,,2,3,,356,1,2.25,1
+y,1027,John Tewskbury,Battle Harbour,N94,122,1793,d,27,1,q,r,,2,3,,361,1,2.25,1
+y,1028,John Tewskbury,Battle Harbour,N94,122,1794,ja,3,1,q,r,,2,3,,3,1,2.25,1
+y,1029,John Tewskbury,Battle Harbour,N94,122,1794,au,2,2,q,be,,1,6,,214,2,1.5,0.5
+y,1030,John Tewskbury,Battle Harbour,N94,122,1794,o,10,1,q,r,,2,3,,283,1,2.25,1
+y,1031,John Tewskbury,Battle Harbour,N94,122,1794,o,16,,,,,,,"""To Ben. Randles Oft. On Christ.r Cobb Fav.r Jo Slade & Co endors''d""",289,0,0,0
+y,1032,John Tewskbury,Battle Harbour,N94,122,1794,o,16,,,,,,,"""To Moses Cheater Off. On B. Lester Es.r favr. Jn.o Prince d[itto = endors'd]",289,0,0,0
+y,1033,John Tewskbury,Battle Harbour,N94,122,1794,o,16,,,,,,,"""To Sundrys to balance""",289,0,0,0
+y,1034,Joseph Knapp,Battle Harbour,N94,80,1793,o,7,1,q,r,,2,3,,280,1,2.25,1
+y,1035,Joseph Knapp,Battle Harbour,N94,80,1793,o,8,1,q,r,,2,3,,281,1,2.25,1
+y,1036,Joseph Knapp,Battle Harbour,N94,80,1793,o,18,1,q,r,,2,3,,291,1,2.25,1
+y,1037,Joseph Knapp,Battle Harbour,N94,80,1793,n,8,1,q,r,,2,3,,312,1,2.25,1
+y,1038,Joseph Knapp,Battle Harbour,N94,80,1793,n,12,1,q,by,,1,9,,316,1,1.75,1
+y,1039,Joseph Knapp,Battle Harbour,N94,80,1793,n,16,1,q,by,,1,9,,320,1,1.75,1
+y,1040,Joseph Knapp,Battle Harbour,N94,80,1793,n,20,1,q,by,,1,9,,324,1,1.75,1
+y,1041,Joseph Knapp,Battle Harbour,N94,80,1793,n,25,1,q,by,,1,9,,329,1,1.75,1
+y,1042,Joseph Knapp,Battle Harbour,N94,80,1793,n,26,1,q,by,,1,9,,330,1,1.75,1
+y,1043,Joseph Knapp,Battle Harbour,N94,80,1793,d,7,1,q,r,,2,3,,341,1,2.25,1
+y,1043.1,Joseph Knapp,Battle Harbour,N94,80,1793,d,7,1,q,r,,2,3,,341,1,2.25,1
+y,1043.2,Joseph Knapp,Battle Harbour,N94,80,1793,d,18,1,q,r,,2,3,,352,1,2.25,1
+y,1043.3,Joseph Knapp,Battle Harbour,N94,80,1793,d,25,2,q,r,,4,6,,359,2,4.5,2
+y,1043.4,Joseph Knapp,Battle Harbour,N94,80,1793,d,27,1,q,r,,2,3,,361,1,2.25,1
+y,1044,Joseph Knapp,Battle Harbour,N94,80,1794,ja,2,1,q,r,,2,3,,2,1,2.25,1
+y,1045,Joseph Knapp,Battle Harbour,N94,80,1794,ja,3,1,q,r,,2,3,,3,1,2.25,1
+y,1046,Joseph Knapp,Battle Harbour,N94,80,1794,ja,7,1,q,by,,1,9,,7,1,1.75,1
+y,1047,Joseph Knapp,Battle Harbour,N94,80,1794,jn,15,1,q,r,,2,3,,166,1,2.25,1
+y,1048,Joseph Knapp,Battle Harbour,N94,80,1794,jl,15,1,q,be,,,9,,196,1,0.75,0.25
+y,1051,Joseph Knapp,Battle Harbour,N94,80,1794,s,6,1,q,r,,2,3,,249,1,2.25,1
+y,1052,Joseph Knapp,Battle Harbour,N94,80,1794,s,9,1,q,r,,2,3,,252,1,2.25,1
+y,1053,Joseph Knapp,Battle Harbour,N94,80,1794,s,11,1,q,r,,2,3,,254,1,2.25,1
+y,1054,Joseph Knapp,Battle Harbour,N94,80,1794,s,27,1,q,r,,2,3,,270,1,2.25,1
+y,1054,Joseph Knapp,Battle Harbour,N94,80,1794,,,,,,,,,"""To Acco.t Matthew Leg""",#N/A,0,0,0
+y,1054.1,Matthias Daw,Battle Harbour,N94,120,1793,,,2,q,r,,4,6,"""To 2 Q.ts Rum omitted at B. harbour last Acco.t 0/4/6""",#N/A,2,4.5,2
+y,1055,Matthias Daw,Battle Harbour,N94,120,1793,n,6,1,q,r,,2,3,,310,1,2.25,1
+y,1056,Matthias Daw,Battle Harbour,N94,120,1793,n,13,2,q,by,,3,6,,317,2,3.5,2
+y,1057,Matthias Daw,Battle Harbour,N94,120,1793,n,18,2,q,by,,3,6,,322,2,3.5,2
+y,1058,Matthias Daw,Battle Harbour,N94,120,1793,d,3,1,g,by,,7,,,337,4,7,4
+y,1059,Matthias Daw,Battle Harbour,N94,120,1793,d,21,1,g,r,,9,,,355,4,9,4
+y,1060,Matthias Daw,Battle Harbour,N94,120,1793,d,23,1,g,r,,9,,,357,4,9,4
+y,1061,Matthias Daw,Battle Harbour,N94,120,1794,ja,2,1,q,r,,2,3,,2,1,2.25,1
+y,1062,Matthias Daw,Battle Harbour,N94,120,1794,ja,4,2,q,by,,3,6,,4,2,3.5,2
+y,1063,Matthias Daw,Battle Harbour,N94,120,1794,ja,7,1,q,by,,1,9,,7,1,1.75,1
+y,1064,Matthias Daw,Battle Harbour,N94,120,1794,ja,8,2,q,by,,3,6,,8,2,3.5,2
+y,1065,Matthias Daw,Battle Harbour,N94,120,1794,jn,27,1,q,r,,2,3,,178,1,2.25,1
+y,1066,Matthias Daw,Battle Harbour,N94,120,1794,jl,5,1,q,r,,2,3,,186,1,2.25,1
+y,1066.1,Matthias Daw,Battle Harbour,N94,120,1794,jl,9,2,q,be,,1,6,,190,2,1.5,0.5
+y,1066.2,Matthias Daw,Battle Harbour,N94,120,1794,jl,12,2,q,be,,1,6,,193,2,1.5,0.5
+y,1067,Matthias Daw,Battle Harbour,N94,120,1794,jl,25,1,q,r,,2,3,,206,1,2.25,1
+y,1068,Matthias Daw,Battle Harbour,N94,120,1794,au,5,1,q,r,,2,3,,217,1,2.25,1
+y,1069,Matthias Daw,Battle Harbour,N94,120,1794,au,7,2,q,r,,4,6,,219,2,4.5,2
+y,1070,Matthias Daw,Battle Harbour,N94,120,1794,au,19,1,q,be,,,9,,231,1,0.75,0.25
+y,1071,Matthias Daw,Battle Harbour,N94,120,1794,au,24,,,,,,,"""To taking a Skiff without Liberty & Damaging her 0/5/0""",236,0,0,0
+y,1072,Matthias Daw,Battle Harbour,N94,120,1794,au,31,,,,,,,"""Acco.t Jon.n Stoodly 8/""",243,0,0,0
+y,1073,Matthias Daw,Battle Harbour,N94,120,1794,s,6,,,,,,,"""To 1 Mo 4 Days Wages beign discharge'd before 10th Oct.r 1/4/-",249,0,0,0
+y,1074,Matthias Daw,Battle Harbour,N94,120,1794,s,6,,,,,,,"""To Walter Phedons Note of hand return'd""",249,0,0,0
+y,1075,Matthias Daw,Battle Harbour,N94,120,1794,s,6,,,,,,,"""To a Sett of Exchange on J. Slade & Co.""",249,0,0,0
+y,1076,Matthias Daw,Battle Harbour,N94,120,1794,s,6,,,,,,,"""To Sundrys to balance""",249,0,0,0
+y,1077,Matthias Daw,Battle Harbour,N94,120,1794,a ,31,,,,,,,"""By Acc.ot Walter Pheden for his Note of hand""",#N/A,0,0,0
+y,1078,Nicholas French,Battle Harbour,N94,81,1793,o,27,1,q,r,,2,3,,300,1,2.25,1
+y,1079,Nicholas French,Battle Harbour,N94,81,1793,n,14,1,q,by,,1,9,,318,1,1.75,1
+y,1080,Nicholas French,Battle Harbour,N94,81,1793,d,1,2,q,by,,3,6,,335,2,3.5,2
+y,1081,Nicholas French,Battle Harbour,N94,81,1793,d,23,2,q,r,,4,6,,357,2,4.5,2
+y,1082,Nicholas French,Battle Harbour,N94,81,1794,ja,8,1,q,r,,2,3,,8,1,2.25,1
+y,1083,Nicholas French,Battle Harbour,N94,81,1794,jl,9,1,q,r,,2,3,,190,1,2.25,1
+y,1084,Nicholas French,Battle Harbour,N94,81,1794,au,2,1,q,r,,2,3,,214,1,2.25,1
+y,1085,Nicholas French,Battle Harbour,N94,81,1794,au,15,1,q,r,,2,3,,227,1,2.25,1
+y,1086,Nicholas French,Battle Harbour,N94,81,1794,s,5,1,q,r,,2,3,,248,1,2.25,1
+y,1087,Nicholas French,Battle Harbour,N94,81,1794,s,27,1,q,r,,2,3,,270,1,2.25,1
+y,1088,Nicholas French,Battle Harbour,N94,81,1794,o,14,2,q,r,,4,6,,287,2,4.5,2
+y,1089,Nicholas French,Battle Harbour,N94,81,1794,o,15,,,,,,,"""To Accot Tho.s Mc. Grath""",288,0,0,0
+y,1090,Nicholas French,Battle Harbour,N94,81,1794,o,15,,,,,,,"""To a Sett of Ex. On J. Slade & Co.""",288,0,0,0
+y,1091,Nicholas French,Battle Harbour,N94,81,1794,o,15,,,,,,,"""To Sundrys to Ballance""",288,0,0,0
+y,1092,Owen Swiney,Battle Harbour,N94,66,1793,o,5,,,,,,,"""[…] per old Book""",278,0,0,0
+y,1093,Owen Swiney,Battle Harbour,N94,66,1793,o,5,,,,,,,"""To a Mistake in Addition B. H Ledger""",278,0,0,0
+y,1094,Owen Swiney,Battle Harbour,N94,66,1793,o,21,1,q,r,,2,3,,294,1,2.25,1
+y,1095,Owen Swiney,Battle Harbour,N94,66,1793,o,27,1,q,r,,2,3,,300,1,2.25,1
+y,1096,Owen Swiney,Battle Harbour,N94,66,1793,n,7,1,q,r,,2,3,,311,1,2.25,1
+y,1097,Owen Swiney,Battle Harbour,N94,66,1793,n,27,1,q,by,,1,9,,331,1,1.75,1
+y,1098,Owen Swiney,Battle Harbour,N94,66,1793,d,20,1,q,r,,2,3,,354,1,2.25,1
+y,1099,Owen Swiney,Battle Harbour,N94,66,1793,d,25,1,q,r,,2,3,,359,1,2.25,1
+y,1100,Owen Swiney,Battle Harbour,N94,66,1793,d,27,1,q,r,,2,3,,361,1,2.25,1
+y,1101,Owen Swiney,Battle Harbour,N94,66,1793,d,29,1,q,r,,2,3,,363,1,2.25,1
+y,1102,Owen Swiney,Battle Harbour,N94,66,1794,ja,2,1,q,r,,2,3,,2,1,2.25,1
+y,1103,Owen Swiney,Battle Harbour,N94,66,1794,ja,3,1,q,r,,2,3,,3,1,2.25,1
+y,1104,Owen Swiney,Battle Harbour,N94,66,1794,ja,6,1,q,by,,1,9,,6,1,1.75,1
+y,1105,Owen Swiney,Battle Harbour,N94,66,1794,ja,8,1,q,by,,1,9,,8,1,1.75,1
+y,1106,Owen Swiney,Battle Harbour,N94,66,1794,ja,7,1,q,by,,1,9,,7,1,1.75,1
+y,1107,Owen Swiney,Battle Harbour,N94,66,1794,jn,25,1,q,r,,2,3,,176,1,2.25,1
+y,1108,Owen Swiney,Battle Harbour,N94,66,1794,jl,2,1,q,r,,2,3,,183,1,2.25,1
+y,1109,Owen Swiney,Battle Harbour,N94,66,1794,jl,6,1,g,be,,3,,,187,4,3,1
+y,1110,Owen Swiney,Battle Harbour,N94,66,1794,jl,9,2,q,be,,1,6,,190,2,1.5,0.5
+y,1111,Owen Swiney,Battle Harbour,N94,66,1794,jl,12,2,q,be,,1,6,,193,2,1.5,0.5
+y,1112,Owen Swiney,Battle Harbour,N94,66,1794,jl,16,2,q,be,,1,6,,197,2,1.5,0.5
+y,1113,Owen Swiney,Battle Harbour,N94,66,1794,jl,19,2,q,be,,1,6,,200,2,1.5,0.5
+y,1114,Owen Swiney,Battle Harbour,N94,66,1794,jl,21,1,q,r,,2,3,,202,1,2.25,1
+y,1115,Owen Swiney,Battle Harbour,N94,66,1794,jl,25,1,q,r,,2,3,,206,1,2.25,1
+y,1116,Owen Swiney,Battle Harbour,N94,66,1794,au,7,2,q,r,,4,6,,219,2,4.5,2
+y,1117,Owen Swiney,Battle Harbour,N94,66,1794,au,24,1,g,be,,3,,,236,4,3,1
+y,1118,Owen Swiney,Battle Harbour,N94,66,1794,au,26,2,q,be,,1,6,,238,2,1.5,0.5
+y,1119,Owen Swiney,Battle Harbour,N94,66,1794,s,3,1,q,r,,2,3,,246,1,2.25,1
+y,1120,Owen Swiney,Battle Harbour,N94,66,1794,s,6,1,q,r,,2,3,,249,1,2.25,1
+y,1121,Owen Swiney,Battle Harbour,N94,66,1794,s,13,1,q,r,,2,3,,256,1,2.25,1
+y,1122,Owen Swiney,Battle Harbour,N94,66,1794,s,18,1,q,r,,2,3,,261,1,2.25,1
+y,1123,Owen Swiney,Battle Harbour,N94,66,1794,s,20,1,q,r,,2,3,,263,1,2.25,1
+y,1124,Owen Swiney,Battle Harbour,N94,66,1794,s,23,1,q,r,,2,3,,266,1,2.25,1
+y,1125,Owen Swiney,Battle Harbour,N94,66,1794,s,25,1,q,r,,2,3,,268,1,2.25,1
+y,1126,Owen Swiney,Battle Harbour,N94,66,1794,s,28,1,q,r,,2,3,,271,1,2.25,1
+y,1127,Owen Swiney,Battle Harbour,N94,66,1794,o,2,1,q,r,,2,3,,275,1,2.25,1
+y,1128,Owen Swiney,Battle Harbour,N94,66,1794,o,6,1,q,r,,2,3,,279,1,2.25,1
+y,1129,Owen Swiney,Battle Harbour,N94,66,1794,o,7,1,q,r,,2,3,,280,1,2.25,1
+y,1130,Owen Swiney,Battle Harbour,N94,66,1794,o,8,1,q,r,,2,3,,281,1,2.25,1
+y,1131,Owen Swiney,Battle Harbour,N94,66,1794,o,10,1,q,r,,2,3,,283,1,2.25,1
+y,1132,Owen Swiney,Battle Harbour,N94,66,1794,o,10,,,,,,,"""To a Sett of Ex. On J. Slade & Co.""",283,0,0,0
+y,1133,Owen Swiney,Battle Harbour,N94,66,1794,o,10,,,,,,,"""Ballance due to Owen Swiney""",283,0,0,0
+y,1134,Owen Swiney,Battle Harbour,N94,66,1794,o,10,,,,,,,"""NB. The Ballance is paid in Sundrys""",283,0,0,0
+y,1135,Patrick McDonald,Battle Harbour,N94,55,1793,o,16,1,q,r,,2,3,,289,1,2.25,1
+y,1136,Patrick McDonald,Battle Harbour,N94,55,1793,o,27,1,q,r,,2,3,,300,1,2.25,1
+y,1137,Patrick McDonald,Battle Harbour,N94,55,1793,n,13,1,q,by,,1,9,,317,1,1.75,1
+y,1138,Patrick McDonald,Battle Harbour,N94,55,1793,d,3,1,g,by,,7,,,337,4,7,4
+y,1138.1,Patrick McDonald,Battle Harbour,N94,55,1793,d,21,2,q,r,,4,6,,355,2,4.5,2
+y,1138.2,Patrick McDonald,Battle Harbour,N94,55,1793,ja,3,1,q,r,,2,3,,3,1,2.25,1
+y,1139,Patrick McDonald,Battle Harbour,N94,55,1793,jn,25,1,q,r,,2,3,,176,1,2.25,1
+y,1140,Patrick McDonald,Battle Harbour,N94,55,1793,jl,6,1,q,r,,2,3,,187,1,2.25,1
+y,1141,Patrick McDonald,Battle Harbour,N94,55,1793,s,5,1,g,be,,3,,,248,4,3,1
+y,1142,Patrick McDonald,Battle Harbour,N94,55,1793,s,7,1,q,r,,2,3,,250,1,2.25,1
+y,1143,Patrick McDonald,Battle Harbour,N94,55,1793,s,29,1,q,r,,2,3,,272,1,2.25,1
+y,1144,Patrick McDonald,Battle Harbour,N94,55,1793,o,5,1,q,r,,2,3,,278,1,2.25,1
+y,1145,Patrick McDonald,Battle Harbour,N94,55,1793,o,5,,,,,,,"""To allowance made on having Bile""",278,0,0,0
+y,1146,Patrick McDonald,Battle Harbour,N94,55,1793,o,14,,,,,,,"""To a Sett of Ex. On J. Slade & Co.",287,0,0,0
+y,1147,Patrick McDonald,Battle Harbour,N94,55,1793,o,14,,,,,,,"""To Sundrys to Ballance""",287,0,0,0
+y,1148,Richard Hood,Battle Harbour,N94,45,1793,o,8,1,q,r,,2,3,,281,1,2.25,1
+y,1149,Richard Hood,Battle Harbour,N94,45,1793,o,19,1,q,r,,2,3,,292,1,2.25,1
+y,1150,Richard Hood,Battle Harbour,N94,45,1793,n,14,1,q,by,,1,9,,318,1,1.75,1
+y,1151,Richard Hood,Battle Harbour,N94,45,1793,d,1,2,q,by,,3,6,,335,2,3.5,2
+y,1152,Richard Hood,Battle Harbour,N94,45,1793,d,23,2,q,r,,4,6,,357,2,4.5,2
+y,1153,Richard Hood,Battle Harbour,N94,45,1794,ja,2,1,q,r,,2,3,,2,1,2.25,1
+y,1154,Richard Hood,Battle Harbour,N94,45,1794,ja,3,1,g,r,,9,,,3,4,9,4
+y,1155,Richard Hood,Battle Harbour,N94,45,1794,ja,6,2,q,by,,3,6,,6,2,3.5,2
+y,1156,Richard Hood,Battle Harbour,N94,45,1794,ja,7,1,q,by,,1,9,,7,1,1.75,1
+y,1157,Richard Hood,Battle Harbour,N94,45,1794,ja,8,2,q,by,,3,6,,8,2,3.5,2
+y,1158,Richard Hood,Battle Harbour,N94,45,1794,jn,29,1,g,be,,3,,,180,4,3,1
+y,1159,Richard Hood,Battle Harbour,N94,45,1794,jl,11,1,q,r,,2,3,,192,1,2.25,1
+y,1160,Richard Hood,Battle Harbour,N94,45,1794,au,15,1,q,r,,2,3,,227,1,2.25,1
+y,1161,Richard Hood,Battle Harbour,N94,45,1794,s,5,1.5,g,be,,4,6,,248,6,4.5,1.5
+y,1162,Richard Hood,Battle Harbour,N94,45,1794,s,15,,,,,,,"""To John King 5/""",258,0,0,0
+y,1163,Richard Hood,Battle Harbour,N94,45,1794,s,17,2,q,be,,1,6,,260,2,1.5,0.5
+y,1164,Richard Hood,Battle Harbour,N94,45,1794,,,,,,,,,"""To Acco.t Rich.d Frampton for 1 Y.d Swanskin""",#N/A,0,0,0
+y,1165,Richard Hood,Battle Harbour,N94,45,1794,,,,,,,,,"""To Balance Mr. John Bird Poole""",#N/A,0,0,0
+y,1166,Robert Irish,Battle Harbour,N94,69,1793,,,,,,,,,"[Clothing, hardware, and bills only]",#N/A,0,0,0
+y,1167,Samuel Akerman,Battle Harbour,N94,42,1794,,,,,,,,,"[Clothing, hardware, and bills only]",#N/A,0,0,0
+y,1168,Thomas Blandford,Battle Harbour,N94,105,1793,o,11,1,q,r,,2,3,,284,1,2.25,1
+y,1169,Thomas Blandford,Battle Harbour,N94,105,1793,o,15,1,q,r,,2,3,,288,1,2.25,1
+y,1170,Thomas Blandford,Battle Harbour,N94,105,1793,n,19,1,q,by,,1,9,,323,1,1.75,1
+y,1171,Thomas Blandford,Battle Harbour,N94,105,1793,n,25,1,q,by,,1,9,,329,1,1.75,1
+y,1172,Thomas Blandford,Battle Harbour,N94,105,1793,d,25,1,q,r,,2,3,,359,1,2.25,1
+y,1173,Thomas Blandford,Battle Harbour,N94,105,1794,ja,2,1,q,r,,2,3,,2,1,2.25,1
+y,1174,Thomas Blandford,Battle Harbour,N94,105,1794,ja,7,1,q,r,,2,3,,7,1,2.25,1
+y,1175,Thomas Blandford,Battle Harbour,N94,105,1794,ja,8,1,q,r,,2,3,,8,1,2.25,1
+y,1176,Thomas Blandford,Battle Harbour,N94,105,1794,jn,27,1,q,r,,2,3,,178,1,2.25,1
+y,1177,Thomas Blandford,Battle Harbour,N94,105,1794,au,18,1,g,be,,3,,,230,4,3,1
+y,1178,Thomas Blandford,Battle Harbour,N94,105,1794,au,19,1,q,r,,2,3,,231,1,2.25,1
+y,1179,Thomas Blandford,Battle Harbour,N94,105,1794,s,7,1,q,r,,2,3,,250,1,2.25,1
+y,1180,Thomas Blandford,Battle Harbour,N94,105,1794,s,17,1,q,r,,2,3,,260,1,2.25,1
+y,1181,Thomas Blandford,Battle Harbour,N94,105,1794,s,18,1,q,r,,2,3,,261,1,2.25,1
+y,1182,Thomas Blandford,Battle Harbour,N94,105,1794,s,20,1,q,r,,2,3,,263,1,2.25,1
+y,1183,Thomas Blandford,Battle Harbour,N94,105,1794,s,26,1,q,r,,2,3,,269,1,2.25,1
+y,1184,Thomas Blandford,Battle Harbour,N94,105,1794,o,2,1,q,r,,2,3,,275,1,2.25,1
+y,1185,Thomas Blandford,Battle Harbour,N94,105,1794,o,6,1,q,r,,2,3,,279,1,2.25,1
+y,1186,Thomas Blandford,Battle Harbour,N94,105,1794,o,7,1,q,r,,2,3,,280,1,2.25,1
+y,1186.1,Thomas Blandford,Battle Harbour,N94,105,1794,,,,,,,,,"""To Ballance Mr John Reynolds X Church""",#N/A,0,0,0
+y,1187,"William Blake, Sr",Battle Harbour,N94,85,1793,o,10,2,q,r,,4,6,,283,2,4.5,2
+y,1188,"William Blake, Sr",Battle Harbour,N94,85,1793,o,17,1,q,r,,2,3,,290,1,2.25,1
+y,1189,"William Blake, Sr",Battle Harbour,N94,85,1793,o,24,1,q,r,,2,3,,297,1,2.25,1
+y,1190,"William Blake, Sr",Battle Harbour,N94,85,1793,o,27,1,q,r,,2,3,,300,1,2.25,1
+y,1191,"William Blake, Sr",Battle Harbour,N94,85,1793,n,9,1,q,by,,1,9,,313,1,1.75,1
+y,1192,"William Blake, Sr",Battle Harbour,N94,85,1793,n,10,1,q,r,,2,3,,314,1,2.25,1
+y,1193,"William Blake, Sr",Battle Harbour,N94,85,1793,n,13,1,q,by,,1,9,,317,1,1.75,1
+y,1194,"William Blake, Sr",Battle Harbour,N94,85,1793,n,19,1,q,by,,1,9,,323,1,1.75,1
+y,1194.1,"William Blake, Sr",Battle Harbour,N94,85,1793,n,22,1,q,by,,1,9,,326,1,1.75,1
+y,1194.2,"William Blake, Sr",Battle Harbour,N94,85,1793,n,25,1,q,by,,1,9,,329,1,1.75,1
+y,1195,"William Blake, Sr",Battle Harbour,N94,85,1793,d,6,1,q,by,,1,9,,340,1,1.75,1
+y,1196,"William Blake, Sr",Battle Harbour,N94,85,1793,d,12,1,q,r,,2,3,,346,1,2.25,1
+y,1197,"William Blake, Sr",Battle Harbour,N94,85,1793,d,19,1,q,r,,2,3,,353,1,2.25,1
+y,1197.1,"William Blake, Sr",Battle Harbour,N94,85,1793,d,25,2,q,r,,4,6,,359,2,4.5,2
+y,1198,"William Blake, Sr",Battle Harbour,N94,85,1793,d,27,1,q,r,,2,3,,361,1,2.25,1
+y,1199,"William Blake, Sr",Battle Harbour,N94,85,1794,ja,1,4,q,r,,9,,,1,4,9,4
+y,1200,"William Blake, Sr",Battle Harbour,N94,85,1794,ja,3,1,q,r,,2,3,,3,1,2.25,1
+y,1201,"William Blake, Sr",Battle Harbour,N94,85,1794,ja,4,2,q,by,,3,6,,4,2,3.5,2
+y,1202,"William Blake, Sr",Battle Harbour,N94,85,1794,ja,8,1,q,r,,2,3,,8,1,2.25,1
+y,1203,"William Blake, Sr",Battle Harbour,N94,85,1794,jn,27,2,q,be,,1,6,,178,2,1.5,0.5
+y,1204,"William Blake, Sr",Battle Harbour,N94,85,1794,jl,2,1,q,r,,2,3,,183,1,2.25,1
+y,1205,"William Blake, Sr",Battle Harbour,N94,85,1794,jl,6,1,q,r,,2,3,,187,1,2.25,1
+y,1206,"William Blake, Sr",Battle Harbour,N94,85,1794,jl,27,1,q,r,,2,3,,208,1,2.25,1
+y,1207,"William Blake, Sr",Battle Harbour,N94,85,1794,au,2,1,g,be,,3,,,214,4,3,1
+y,1208,"William Blake, Sr",Battle Harbour,N94,85,1794,au,14,2,q,be,,1,6,,226,2,1.5,0.5
+y,1209,"William Blake, Sr",Battle Harbour,N94,85,1794,au,17,1,g,be,,3,,,229,4,3,1
+y,1210,"William Blake, Sr",Battle Harbour,N94,85,1794,s,3,1,q,r,,2,3,,246,1,2.25,1
+y,1211,"William Blake, Sr",Battle Harbour,N94,85,1794,s,9,1,q,r,,2,3,,252,1,2.25,1
+y,1212,"William Blake, Sr",Battle Harbour,N94,85,1794,s,10,2,q,be,,1,6,,253,2,1.5,0.5
+y,1213,"William Blake, Sr",Battle Harbour,N94,85,1794,s,10,1,q,r,,2,3,,253,1,2.25,1
+y,1214,"William Blake, Sr",Battle Harbour,N94,85,1794,s,11,1,q,r,,2,3,,254,1,2.25,1
+y,1215,"William Blake, Sr",Battle Harbour,N94,85,1794,s,11,,,,,,,"""Allow'd John King 10/6""",254,0,0,0
+y,1216,"William Blake, Sr",Battle Harbour,N94,85,1794,s,18,2,q,be,,1,6,,261,2,1.5,0.5
+y,1217,"William Blake, Sr",Battle Harbour,N94,85,1794,s,21,1,q,r,,2,3,,264,1,2.25,1
+y,1218,"William Blake, Sr",Battle Harbour,N94,85,1794,s,23,2,q,r,,4,6,,266,2,4.5,2
+y,1219,"William Blake, Sr",Battle Harbour,N94,85,1794,s,27,,,,,,,"""To Acco.t Gustavus Hoddinch""",270,0,0,0
+y,1220,"William Blake, Sr",Battle Harbour,N94,85,1794,s,30,1,q,r,,2,3,,273,1,2.25,1
+y,1221,"William Blake, Sr",Battle Harbour,N94,85,1794,o,2,1,q,r,,2,3,,275,1,2.25,1
+y,1222,"William Blake, Sr",Battle Harbour,N94,85,1794,o,3,1,q,r,,2,3,,276,1,2.25,1
+y,1223,"William Blake, Sr",Battle Harbour,N94,85,1794,o,4,1,q,r,,2,3,,277,1,2.25,1
+y,1224,"William Blake, Sr",Battle Harbour,N94,85,1794,o,5,1,q,r,,2,4,,278,1,2.333333333,1
+y,1225,"William Blake, Sr",Battle Harbour,N94,85,1794,o,6,1,q,r,,2,3,,279,1,2.25,1
+y,1226,"William Blake, Sr",Battle Harbour,N94,85,1794,o,17,,,,,,,"""To Sundrys to Ballance""",290,0,0,0
+y,1227,William Bugden,Battle Harbour,N94,23,1794,,,,,,,,,"[Clothing, hardware, and bills only]",#N/A,0,0,0
+y,1228,William Foss,Battle Harbour,N94,48,1793,s,22,,,,,,,"""[…] per old Book""",265,0,0,0
+y,1229,William Foss,Battle Harbour,N94,48,1793,,,,,,,,,"[Clothing, hardware, and bills only]",#N/A,0,0,0
+y,1230,William Hoare,Battle Harbour,N94,67,1794,,,,,,,,,"[Clothing, hardware, and bills only]",#N/A,0,0,0
